@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import {Jumbotron, Toast} from "react-bootstrap";
 
-function App() {
+// Importing the Bootstrap CSS
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
+
+const ExampleToast = ({ children }) => {
+  const [show, toggleShow] = useState(true);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Toast show={show} onClose={() => toggleShow(!show)}>
+      <Toast.Header>
+        <strong className="mr-auto">React-Bootstrap</strong>
+      </Toast.Header>
+      <Toast.Body>{children}</Toast.Body>
+    </Toast>
   );
-}
+};
+
+const App = () => (
+  <Jumbotron>
+    <h1 className="header">Welcome To React-Bootstrap</h1>
+    <ExampleToast className="toast">
+      We now have Toasts
+      <span role="img" aria-label="tada">
+        🎉
+      </span>
+    </ExampleToast>
+  </Jumbotron>
+);
 
 export default App;
