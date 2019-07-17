@@ -2,6 +2,9 @@
   text-align: center;
 }
 
-.toast {
-  margin: 0 auto;
+.roundButton {
+  border-radius: 20px;
+}
+.roundText {
+  border-radius: 20px;
 }
