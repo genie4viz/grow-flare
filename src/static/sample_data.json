@@ -1,0 +1,3065 @@
+[
+    {
+    "domain": "nomnomnow.com",
+    "categories": [
+        ["dog", 0.62],
+        ["allergy", 0.39],
+        ["pet", 0.38],
+        ["allergies", 0.37],
+        ["diet", 0.36]
+    ],
+    "keywords": [
+        ["gwenevere", 1.04],
+        ["rocket", 0.62],
+        ["dog", 0.62],
+        ["eat", 0.57],
+        ["eater", 0.52],
+        ["picky", 0.5],
+        ["story transforming", 0.4],
+        ["allergy", 0.39],
+        ["pet", 0.38],
+        ["allergies", 0.37]
+    ],
+    "comps": [
+        [0, {
+            "name": "PetPlate",
+            "domain": "petplate.com",
+            "link": "http://petplate.com",
+            "description": "PetPlate is headquartered in New York City, New York and is specializes in creating specialized diet plans for dogs. The website allows you to create specialized meal plans for your pet and PetPlate will send out your shipment.",
+            "location": null,
+            "size": "1-10",
+            "shared_cats": "dog, eat, picky",
+            "score": "High"
+        }],
+        [1, {
+            "name": "pawTree",
+            "domain": "pawtree.com",
+            "link": "http://pawtree.com",
+            "description": null,
+            "location": "150 S Kimball Ave, Southlake, Texas, 76092, United States",
+            "size": "11-50",
+            "shared_cats": "pet, dog, eat, picky",
+            "score": "High"
+        }],
+        [2, {
+            "name": "TruDog",
+            "domain": "trudog.com",
+            "link": "http://trudog.com",
+            "description": "TruDog\u00ae is a small, family-owned pet food company located in the Midwest. Located in Tampa, Florida.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "dog, eat, pet, picky, allergy",
+            "score": "High"
+        }],
+        [3, {
+            "name": "True Pet Food Project",
+            "domain": "tenderandtruepet.com",
+            "link": "http://tenderandtruepet.com",
+            "description": "True Pet Food Project  is a Pet Nutrition Food Company.",
+            "location": "Omaha, Nebraska, United States",
+            "size": "51-200",
+            "shared_cats": "pet, dog, picky, eater",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Ollie",
+            "domain": "myollie.com",
+            "link": "http://myollie.com",
+            "description": "Ollie is a trailblazing pet wellness brand that is upending the dog food industry by providing a healthier, easier way for pet parents to feel better about what they feed their dog. They are producing human-grade, freshly made meals with real ingredients dogs love to eat, tailoring it to their individual nutritional needs and delivering it directly to homes around the country. Ollie combines carefully sourced ingredients and vet-formulated recipes with the convenience busy humans need and the transparency they deserve.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "dog, pet, allergy",
+            "score": "High"
+        }],
+        [5, {
+            "name": "\"I and love and you\"",
+            "domain": "iandloveandyou.com",
+            "link": "http://iandloveandyou.com",
+            "description": "NatPets LLC produces and sells pet care products for dogs and cats. It was founded in 2009 and is based in Boulder, Colorado.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "pet, dog, eat",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Territory Foods",
+            "domain": "territoryfoods.com",
+            "link": "http://territoryfoods.com",
+            "description": "Founded in 2011, Territory Foods is a mobile food service company that prepares meals and allows personalized weekly plans. Territory has local chefs and nutritionists that prepare meals twice a week for customers. The company is headquartered in Alexandria, Virginia.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "dog, eat",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Freshpet",
+            "domain": "freshpet.com",
+            "link": "http://freshpet.com",
+            "description": "Founded in 2004, Freshpet is a manufacturer and distributor of fresh, refrigerated dog and cat food. It is based in Secaucus, New Jersey.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "dog, pet, eat",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Vetted PetCare",
+            "domain": "vettedpetcare.com",
+            "link": "http://vettedpetcare.com",
+            "description": "Vetted PetCare is located in Los Angeles, California. Vetted PetCare provides in-home care and video triage. Their veterinary services include wellness exams, non-emergency sick visits, vaccinations, diagnostics, and treatment.",
+            "location": "1600 Main St, Venice, CA, 90291, United States",
+            "size": "11-50",
+            "shared_cats": "pet, dog, allergy, eat",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Petnet",
+            "domain": "petnet.io",
+            "link": "http://petnet.io",
+            "description": "Petnet is a connected pet device company that offers a pet analytics platform to find solutions for fundamental problems of petcare.",
+            "location": "1035 S. Grand Ave, Los Angeles, California, 90015, United States",
+            "size": "11-50",
+            "shared_cats": "pet, dog, allergies, allergy, eat",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "walmart.com",
+    "categories": [
+        ["store", 0.56],
+        ["club", 0.41],
+        ["groceries", 0.37],
+        ["grocery", 0.31],
+        ["ecommerce", 0.3]
+    ],
+    "keywords": [
+        ["june", 0.73],
+        ["prepared remarks", 0.69],
+        ["bentonville ark", 0.65],
+        ["store", 0.56],
+        ["shareholders meeting", 0.53],
+        ["marc lore president", 0.46],
+        ["sam", 0.43],
+        ["club", 0.41],
+        ["groceries", 0.37],
+        ["associate", 0.36]
+    ],
+    "comps": [
+        [0, {
+            "name": "Gander Mountain",
+            "domain": "gandermountain.com",
+            "link": "http://gandermountain.com",
+            "description": "Gander Mountain Company is a retail network of specialty stores for hunting, fishing, camping, and outdoor lifestyle products and services.",
+            "location": "Saint Paul, Minnesota, United States",
+            "size": "5001-10000",
+            "shared_cats": "store, club, associate",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Academy Sports + Outdoors",
+            "domain": "academy.com",
+            "link": "http://academy.com",
+            "description": "Academy Sports + Outdoors is a premier sports, outdoor and lifestyle retailer with a broad assortment of quality hunting, fishing.",
+            "location": "Katy, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "store",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Books-A-Million",
+            "domain": "booksamillion.com",
+            "link": "http://booksamillion.com",
+            "description": "Books-A-Million is an online book store. It offers books, magazines, bargain books, collectible supplies, toys, and gift departments, as well as special category shops within the store. The company was founded 1917 and is based in Birmingham, Alabama.",
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "store",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "Tops Markets",
+            "domain": "topsmarkets.com",
+            "link": "http://topsmarkets.com",
+            "description": "Tops Markets, LLC is a leading full-service grocery retailer based in the Buffalo, NY area.",
+            "location": "Buffalo, New York, United States",
+            "size": "10000+",
+            "shared_cats": "store",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "Camping World",
+            "domain": "campingworld.com",
+            "link": "http://campingworld.com",
+            "description": "Camping World is an American corporation specializing in selling parts and service for recreational vehicles and supplies for camping.",
+            "location": "Bowling Green, Kentucky, United States",
+            "size": "10000+",
+            "shared_cats": "club, associate",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "99 Cents Only Stores",
+            "domain": "99only.com",
+            "link": "http://99only.com",
+            "description": "A premier deep-discount retailer that primarily carries name-brand consumable and general merchandise.",
+            "location": "Commerce, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Amazon",
+            "domain": "amazon.com",
+            "link": "http://amazon.com",
+            "description": "Amazon Services offers business with products and solutions backed by Amazon technologies.",
+            "location": "Seattle, Washington, United States",
+            "size": "10000+",
+            "shared_cats": "store",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Food City",
+            "domain": "foodcity.com",
+            "link": "http://foodcity.com",
+            "description": "KVAT Food Stores Inc. is a largest Supermarket Chains, 55th on Supermarket News.",
+            "location": "Abingdon, Virginia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Bass Pro Shops",
+            "domain": "basspro.com",
+            "link": "http://basspro.com",
+            "description": "Your Adventure Starts Here! Find gear for Fishing, Boating, Hunting, Camping, and much more at Bass Pro Shops.",
+            "location": "Springfield, Missouri, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Radial",
+            "domain": "radial.com",
+            "link": "http://radial.com",
+            "description": "Radial provides omnichannel commerce technology, enabling brands and retailers to exceed retail customer expectations.",
+            "location": "King Of Prussia, Pennsylvania, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "apple.com",
+    "categories": [
+        ["electronics", 0.1],
+        ["accessory", 0.07],
+        ["entertainment", 0.06],
+        ["software", 0.03],
+        ["hardware", 0.03]
+    ],
+    "keywords": [
+        ["explore accessories entertainment", 0.23],
+        ["expert device support", 0.23],
+        ["watch mac", 0.22],
+        ["tv plus", 0.19],
+        ["innovative world", 0.17],
+        ["cupertino", 0.14],
+        ["iphone ipad", 0.13],
+        ["electronics personal computers", 0.12],
+        ["retail software discover", 0.12],
+        ["infinite loop", 0.1]
+    ],
+    "comps": [
+        [0, {
+            "name": "MacMall",
+            "domain": "macmall.com",
+            "link": "http://macmall.com",
+            "description": "MacMall is an online platform that offers a range of Apple-branded products.",
+            "location": "El Segundo, California, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [1, {
+            "name": "AT&T",
+            "domain": "att.com",
+            "link": "http://att.com",
+            "description": "ConnecTech offers information technology consulting services.",
+            "location": "Plano, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [2, {
+            "name": "FITIQUETTE",
+            "domain": "fitiquette.com",
+            "link": "http://fitiquette.com",
+            "description": "Fitiquette\u00ac\u2020provides a virtual fitting room for shoppers to create a virtual imitation of themselves\u00ac\u2020to try-on and buy\u00ac\u2020clothing\u00ac\u2020online.",
+            "location": "San Francisco, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Netflix",
+            "domain": "netflix.com",
+            "link": "http://netflix.com",
+            "description": "Netflix is an online platform that enables users to watch TV shows and movies on smart TVs, PCs, Macs, mobiles, tablets, and so on.",
+            "location": "Los Gatos, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [4, {
+            "name": "AT&T Digital Life",
+            "domain": "attdigitallife.com",
+            "link": "http://attdigitallife.com",
+            "description": "The maker of wireless home security systems with burglary and fire monitoring for homes, apartments and small businesses.",
+            "location": "Dallas, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Best Buy",
+            "domain": "bestbuy.com",
+            "link": "http://bestbuy.com",
+            "description": "Best Buy is a multinational retailer of technology and entertainment products and services offering consumer electronics and more.",
+            "location": "Bloomington, Minnesota, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Verizon",
+            "domain": "verizon.com",
+            "link": "http://verizon.com",
+            "description": "Verizon Fios is a bundled Internet access, telephone, and television service that operates over a fiber-optic communications network.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "FleetBoston Financial Group",
+            "domain": "fleet.com",
+            "link": "http://fleet.com",
+            "description": "Personal financial services business included consumer banking, small business, and the credit card unit.",
+            "location": "Boston, Massachusetts, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Bank of America",
+            "domain": "bankofamerica.com",
+            "link": "http://bankofamerica.com",
+            "description": "Bank of America offers banking, investing, and other financial and risk management services to individuals, SMBs and large corporations.",
+            "location": "Charlotte, North Carolina, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Buick",
+            "domain": "buick.com",
+            "link": "http://buick.com",
+            "description": "Buick has consistently delivered a thoughtful approach to creating new luxury vehicles.",
+            "location": "Detroit, Michigan, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "bain.com",
+    "categories": [
+        ["management consulting", 0.25],
+        ["internet", 0.02],
+        ["technology", 0.02],
+        ["marketing", 0.02]
+    ],
+    "keywords": [
+        ["management consulting", 0.25],
+        ["challenging environment delivered", 0.23],
+        ["issues global businesses", 0.23],
+        ["thinking inspired people", 0.23],
+        ["extraordinary impact", 0.19],
+        ["inbox monthly", 0.19],
+        ["results come", 0.16],
+        ["bold", 0.13],
+        ["lasting transformative solutions", 0.12],
+        ["vigorous agile organizations", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "Golder Associates",
+            "domain": "golder.com",
+            "link": "http://golder.com",
+            "description": "Golder Providing comprehensive civil/geotechnical and environmental consulting services to a wide range of industries worldwide.",
+            "location": "Atlanta, Georgia, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Doblin",
+            "domain": "doblin.com",
+            "link": "http://doblin.com",
+            "description": "Doblin is a global innovation firm that combines leading business experience, user research, and a design-led approach to help clients.",
+            "location": "Chicago, Illinois, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [2, {
+            "name": "Littler Mendelson",
+            "domain": "littler.com",
+            "link": "http://littler.com",
+            "description": "Littler Mendelson is the largest global, management-side employment and labor law practice, experienced attorneys in legal profession.",
+            "location": "San Francisco, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "bold",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "DSC Logistics",
+            "domain": "dsclogistics.com",
+            "link": "http://dsclogistics.com",
+            "description": "DSC Logistics provides transforming logistics and supply chain management into a critical business strategy.",
+            "location": "Des Plaines, Illinois, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "Genpact",
+            "domain": "genpact.com",
+            "link": "http://genpact.com",
+            "description": "Genpact provides business process management and information technology services.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Jacobs",
+            "domain": "jacobs.com",
+            "link": "http://jacobs.com",
+            "description": "Jacobs leads the global professional services sector delivering solutions for a more connected, sustainable world.",
+            "location": "Dallas, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Bernstein",
+            "domain": "bernstein.com",
+            "link": "http://bernstein.com",
+            "description": "Bernstein has focused squarely on research and investment management.",
+            "location": "New York, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "The Boston Consulting Group",
+            "domain": "bcg.com",
+            "link": "http://bcg.com",
+            "description": "The Boston Consulting Group (BCG) is a global management consulting firm and an advisor on business strategy.",
+            "location": "Boston, Massachusetts, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Quad",
+            "domain": "quad.com",
+            "link": "http://quad.com",
+            "description": "Quad (formerly known as Quad/Graphics) produces catalogs, magazines, books, direct mail, and other commercial material. Services include production, design, photography, binding, wrapping, and distribution. It has produced catalogs for Bloomingdale's, books for National Geographic, and magazines such as People. The firm owns some 140 facilities in about 20 countries throughout North America, Europe, and Latin America. In 2010 Quad/Graphics expanded significantly by acquiring rival World Color Press. The company recently acquired Vertis Holdings, Inc., and is working to integrate its units into the corporate structure. Quad/Graphics was founded in 1971 and is based out of Sussex, WI.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "WGBH News",
+            "domain": "wgbhnews.org",
+            "link": "http://wgbhnews.org",
+            "description": "WGBH is a public media company that provides educational content through a radio and TV station, and online media.",
+            "location": "Boston, Massachusetts, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "petplate.com",
+    "categories": [
+        ["dog", 1.31],
+        ["meal", 0.61],
+        ["food", 0.53],
+        ["diet", 0.32],
+        ["vitamin", 0.23]
+    ],
+    "keywords": [
+        ["dog", 1.31],
+        ["pup", 0.66],
+        ["meal", 0.61],
+        ["food", 0.53],
+        ["ingredient", 0.38],
+        ["fresh diet comprised", 0.35],
+        ["highly palatable", 0.33],
+        ["vitamins minerals", 0.31],
+        ["usda facility", 0.31],
+        ["human grade", 0.29]
+    ],
+    "comps": [
+        [0, {
+            "name": "NomNomNow",
+            "domain": "nomnomnow.com",
+            "link": "http://nomnomnow.com",
+            "description": "NomNomNow provides personalized pet meals made with fresh, vet-formulated, custom-portioned, restaurant-quality ingredients. The meals are cooked each week in the company's personal kitchen, and they are all customized and tailored for each breed and size of dog. The company was founded in 2015 and is headquartered in Oakland, California.",
+            "location": "101 Broadway, Suite 214, Oakland, CA, 94607, United States",
+            "size": "11-50",
+            "shared_cats": "dog, food, pup",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Ollie",
+            "domain": "myollie.com",
+            "link": "http://myollie.com",
+            "description": "Ollie is a trailblazing pet wellness brand that is upending the dog food industry by providing a healthier, easier way for pet parents to feel better about what they feed their dog. They are producing human-grade, freshly made meals with real ingredients dogs love to eat, tailoring it to their individual nutritional needs and delivering it directly to homes around the country. Ollie combines carefully sourced ingredients and vet-formulated recipes with the convenience busy humans need and the transparency they deserve.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "dog, food, meal, human grade, pup",
+            "score": "High"
+        }],
+        [2, {
+            "name": "pawTree",
+            "domain": "pawtree.com",
+            "link": "http://pawtree.com",
+            "description": null,
+            "location": "150 S Kimball Ave, Southlake, Texas, 76092, United States",
+            "size": "11-50",
+            "shared_cats": "dog, meal",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Purple Carrot",
+            "domain": "purplecarrot.com",
+            "link": "http://purplecarrot.com",
+            "description": "Purple Carrot is a website the allows you to order food made from natural ingredients. Purple Carrot specializes in plant-based meals where you order by the plate.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "meal",
+            "score": "High"
+        }],
+        [4, {
+            "name": "TruDog",
+            "domain": "trudog.com",
+            "link": "http://trudog.com",
+            "description": "TruDog\u00ae is a small, family-owned pet food company located in the Midwest. Located in Tampa, Florida.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "dog, food, pup",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Diet-to-Go",
+            "domain": "diettogo.com",
+            "link": "http://diettogo.com",
+            "description": "Diet-to-Go is a meal delivery company focused on making healthy eating both easy and affordable. It provides healthy, delicious meals for individuals looking to lose weight, maintain a healthy weight or improve their overall well-being. The company was founded in 1991.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "meal",
+            "score": "High"
+        }],
+        [6, {
+            "name": "\"I and love and you\"",
+            "domain": "iandloveandyou.com",
+            "link": "http://iandloveandyou.com",
+            "description": "NatPets LLC produces and sells pet care products for dogs and cats. It was founded in 2009 and is based in Boulder, Colorado.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "food, dog, meal",
+            "score": "High"
+        }],
+        [7, {
+            "name": "PeachDish",
+            "domain": "peachdish.com",
+            "link": "http://peachdish.com",
+            "description": "PeachDish.com is an Atlanta-based meal-kit delivery service. It specializes in areas such as meal-kit delivery, pre-measured ingredients, convenient meal options, gift options, corporate gifts, and sustainable food. The company was formed in 2013 and is headquartered in Atlanta, Georgia.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "meal, food",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Kidfresh",
+            "domain": "kidfresh.com",
+            "link": "http://kidfresh.com",
+            "description": "Founded in 2007, Kidfresh was Created by parents for parents with the help of pediatric nutritionists and top chefs to provide convenient and better-for-you kids meal options. Kidfresh has become a pioneer in frozen kids meals expanding from there initial concept store in New York, New York.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "meal, food",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Petnet",
+            "domain": "petnet.io",
+            "link": "http://petnet.io",
+            "description": "Petnet is a connected pet device company that offers a pet analytics platform to find solutions for fundamental problems of petcare.",
+            "location": "1035 S. Grand Ave, Los Angeles, California, 90015, United States",
+            "size": "11-50",
+            "shared_cats": "food, dog",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "papersource.com",
+    "categories": [
+        ["stationery", 0.26],
+        ["wedding", 0.25],
+        ["fiber", 0.12],
+        ["envelope", 0.1],
+        ["recycle", 0.09]
+    ],
+    "keywords": [
+        ["wedding invitations", 0.27],
+        ["south clark", 0.26],
+        ["stationery", 0.26],
+        ["artisanal", 0.21],
+        ["gift", 0.2],
+        ["creative", 0.16],
+        ["customerservice", 0.15],
+        ["st chicago il", 0.15],
+        ["envelopes", 0.13],
+        ["palette", 0.13]
+    ],
+    "comps": [
+        [0, {
+            "name": "Print EZ",
+            "domain": "printez.com",
+            "link": "http://printez.com",
+            "description": "Print E-Z is an online source that provides personal and business checks, wedding invitations, and business forms.",
+            "location": "Monroe, New York, United States",
+            "size": "501-1000",
+            "shared_cats": "wedding invitations, gift, stationery",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Crane & Co.",
+            "domain": "crane.com",
+            "link": "http://crane.com",
+            "description": "Crane & Co., Inc is a Manufacturing company.",
+            "location": "Dalton, Massachusetts, United States",
+            "size": "1001-5000",
+            "shared_cats": "stationery, wedding invitations",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Swoozies",
+            "domain": "swoozies.com",
+            "link": "http://swoozies.com",
+            "description": "Swoozie\u201a\u00c4\u00f4s, is an upscale retail chain of gift and paper goods stores.",
+            "location": "Atlanta, Georgia, United States",
+            "size": "501-1000",
+            "shared_cats": "gift, stationery",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Card Factory plc",
+            "domain": "cardfactory.co.uk",
+            "link": "http://cardfactory.co.uk",
+            "description": "Card Warehouse is the greetings cards, gifts, wrapping paper, bows and ribbons on high streets around the UK.",
+            "location": "Tyler, Texas, United States",
+            "size": "5001-10000",
+            "shared_cats": "gift",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Schurman Retail Group",
+            "domain": "srgretail.com",
+            "link": "http://srgretail.com",
+            "description": "Schurman Retail Group (dba Papyrus) strives to make the right impression. The company, which operates stores under the American Greetings, Carlton Cards, and Papyrus brands, sells specialty gift products such as greeting cards, stationary, gift wrap, and other paper products.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "stationery, gift",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Bloomingdale's",
+            "domain": "bloomingdales.com",
+            "link": "http://bloomingdales.com",
+            "description": "Bloomingdale's operates a chain of department stores that offers clothing, shoes, handbags, wallets, and accessories for men and women.",
+            "location": "New York, New York, United States",
+            "size": "501-1000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [6, {
+            "name": "The Occasions Group",
+            "domain": "theoccasionsgroup.com",
+            "link": "http://theoccasionsgroup.com",
+            "description": "Marketing, Tech, and Administrative",
+            "location": "Mankato, Minnesota, United States",
+            "size": "501-1000",
+            "shared_cats": "stationery",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Thirty-One",
+            "domain": "mythirtyone.com",
+            "link": "http://mythirtyone.com",
+            "description": "Thirty-One Gifts is a direct-selling company offering fashionable and functional products to help people organize their lives in style. The company's product assortment features on-trend purses, totes, accessories, home organizing solutions and more, many of which can be personalized.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "stationery",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Crate and Barrel",
+            "domain": "crateandbarrel.com",
+            "link": "http://crateandbarrel.com",
+            "description": "Live the Crate and Barrel lifestyle with our exclusive collection of home furnishings and housewares.",
+            "location": "Naperville, Illinois, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Rogers & Hollands Jewelers",
+            "domain": "rogersandhollands.com",
+            "link": "http://rogersandhollands.com",
+            "description": "Rogers Enterprises, Inc, operates as a retail jewelry chain in the United States and Canada. It offers rings, necklaces, earrings, bracelets, men's jewelry, and watches. The company was founded in 1910 and is based in Matteson, Illinois.",
+            "location": null,
+            "size": "501-1000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "att.com",
+    "categories": [
+        ["internet service", 0.28],
+        ["entertainment", 0.19],
+        ["wireless", 0.11],
+        ["iphone", 0.1],
+        ["network", 0.05]
+    ],
+    "keywords": [
+        ["reward card", 0.52],
+        ["plans internet service", 0.42],
+        ["official site phone", 0.33],
+        ["offer ends", 0.23],
+        ["expert setup", 0.22],
+        ["entertainment", 0.19],
+        ["hurry", 0.18],
+        ["stream", 0.15],
+        ["tv", 0.15],
+        ["lowest price", 0.13]
+    ],
+    "comps": [
+        [0, {
+            "name": "AT&T Digital Life",
+            "domain": "attdigitallife.com",
+            "link": "http://attdigitallife.com",
+            "description": "The maker of wireless home security systems with burglary and fire monitoring for homes, apartments and small businesses.",
+            "location": "Dallas, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "reward card, plans internet service, official site phone, offer ends, expert setup, hurry, entertainment, stream, tv, lowest price",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Sprint",
+            "domain": "sprint.com",
+            "link": "http://sprint.com",
+            "description": "Sprint Nextel offers a comprehensive range of wireless and wireline communications services to consumers, businesses, and government users.",
+            "location": "Overland Park, Kansas, United States",
+            "size": "10000+",
+            "shared_cats": "hurry",
+            "score": "High"
+        }],
+        [2, {
+            "name": "DIRECTV",
+            "domain": "directv.com",
+            "link": "http://directv.com",
+            "description": "DIRECTV is an American digital entertainment services provider delivering sports, news, movies, family and local programming channels.",
+            "location": "El Segundo, California, United States",
+            "size": "10000+",
+            "shared_cats": "tv, entertainment, stream",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Cablevision Systems",
+            "domain": "cablevision.com",
+            "link": "http://cablevision.com",
+            "description": "Cablevision Systems Corporationis a leading telecommunications and media company.",
+            "location": "Bethpage, New York, United States",
+            "size": "10000+",
+            "shared_cats": "reward card, tv, stream",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Suddenlink Communications",
+            "domain": "suddenlink.com",
+            "link": "http://suddenlink.com",
+            "description": "Suddenlink Communications, formerly Cebridge Connections, is the 9th largest provider of cable broadband services in the United States",
+            "location": "Saint Louis, Missouri, United States",
+            "size": "5001-10000",
+            "shared_cats": "reward card, tv, stream",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Verizon",
+            "domain": "verizon.com",
+            "link": "http://verizon.com",
+            "description": "Verizon Fios is a bundled Internet access, telephone, and television service that operates over a fiber-optic communications network.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "tv, stream, entertainment",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Cox Communications",
+            "domain": "cox.com",
+            "link": "http://cox.com",
+            "description": "Cox Communications, Inc. operates as a multiservice broadband communications company in the United States.",
+            "location": "Atlanta, Georgia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Charter Communications",
+            "domain": "charter.com",
+            "link": "http://charter.com",
+            "description": "Charter Communications is an American company offering cable television, high-speed Internet, and telephone services.",
+            "location": "Stamford, Connecticut, United States",
+            "size": "10000+",
+            "shared_cats": "tv",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Spectrum",
+            "domain": "spectrum.com",
+            "link": "http://spectrum.com",
+            "description": "Spectrum (Time Warner Cable) is a cable telecommunications company that offers a range of home entertainment and information services.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "tv, entertainment",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Bright House Networks",
+            "domain": "brighthouse.com",
+            "link": "http://brighthouse.com",
+            "description": "Bright House Networks is the sixth largest owner and operator of cable systems in the U.S.",
+            "location": "Syracuse, New York, United States",
+            "size": "10000+",
+            "shared_cats": "tv",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "pwc.com",
+    "categories": [
+        ["tax", 0.16],
+        ["global network", 0.14],
+        ["accounting", 0.11],
+        ["audit", 0.07],
+        ["finance", 0.02]
+    ],
+    "keywords": [
+        ["member firm", 0.28],
+        ["result results", 0.23],
+        ["assurance consulting", 0.18],
+        ["separate legal entity", 0.17],
+        ["fri jun", 0.17],
+        ["tax", 0.16],
+        ["utc", 0.15],
+        ["global network", 0.14],
+        ["refer", 0.14],
+        ["transactions performance improvement", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "Deloitte",
+            "domain": "deloitte.com",
+            "link": "http://deloitte.com",
+            "description": "Deloitte Consulting offers consulting services to technology-based companies.",
+            "location": "Chicago, Illinois, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [1, {
+            "name": "RSM US",
+            "domain": "rsmus.com",
+            "link": "http://rsmus.com",
+            "description": "Founded in 1926, McGladrey & Pullen, LLP operates under the McGladrey brand as a provider of assurance, tax and consulting services nationwide. The company is a licensed CPA firm and is a member of RSM International, the sixth largest global network of independent accounting, tax, and consulting firms. RSM is a managed services provider (MSP).",
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "member firm, global network",
+            "score": "High"
+        }],
+        [2, {
+            "name": "EY",
+            "domain": "ey.com",
+            "link": "http://ey.com",
+            "description": null,
+            "location": "New York, NY",
+            "size": "10000+",
+            "shared_cats": "separate legal entity, refer",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Pangea3",
+            "domain": "pangea3.com",
+            "link": "http://pangea3.com",
+            "description": "Pangea3 The Global Leader in Legal Outsourcing.",
+            "location": "Eagan, Minnesota, United States",
+            "size": "10000+",
+            "shared_cats": "refer",
+            "score": "High"
+        }],
+        [4, {
+            "name": "EY Society",
+            "domain": "ey-society.com",
+            "link": "http://ey-society.com",
+            "description": "EY Society is a consulting services firm with an expertise in big data and analytics.",
+            "location": "Bellevue, Washington, United States",
+            "size": "10000+",
+            "shared_cats": "tax, separate legal entity, refer",
+            "score": "High"
+        }],
+        [5, {
+            "name": "KPMG North America",
+            "domain": "home.kpmg",
+            "link": "http://home.kpmg",
+            "description": "Founded in 1987, KPMG North America is an audit, tax, and advisory firm. It is the U.S. member firm of KPMG International. KPMG International's member firms have 137,000 professionals, including more than 7,600 partners in 144 countries. KPMG is a privately owned firm and maintains its U.S. headquarters in New York City, New York.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "member firm",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Crowe Horwath International",
+            "domain": "crowehorwath.net",
+            "link": "http://crowehorwath.net",
+            "description": "Crowe Horwath International, ranked among the top 10 global accounting networks, consists of more than 200 independent accounting services",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Prudential Annuities",
+            "domain": "prudential.com",
+            "link": "http://prudential.com",
+            "description": "Prudential Annuities, Inc. offers annuity contracts for retirement investors.",
+            "location": "Shelton, Connecticut, United States",
+            "size": "10000+",
+            "shared_cats": "refer",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Deloitte Digital",
+            "domain": "deloittedigital.com",
+            "link": "http://deloittedigital.com",
+            "description": "Deloitte Digital offers strategic, mobile, digital content, digital ERP, web, and digital design, and communication solutions.",
+            "location": "Seattle, Washington, United States",
+            "size": "5001-10000",
+            "shared_cats": "refer, global network",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "H&R Block",
+            "domain": "hrblock.com",
+            "link": "http://hrblock.com",
+            "description": "H&R Block is a consumer tax services provider company.",
+            "location": "Kansas City, Missouri, United States",
+            "size": "10000+",
+            "shared_cats": "tax, refer",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "morganstanley.com",
+    "categories": [
+        ["wealth management", 0.14],
+        ["security", 0.1],
+        ["investing", 0.09],
+        ["bank", 0.08],
+        ["china", 0.07]
+    ],
+    "keywords": [
+        ["firm", 0.25],
+        ["new stack", 0.21],
+        ["following year", 0.19],
+        ["securities", 0.16],
+        ["establishes", 0.15],
+        ["wealth management", 0.14],
+        ["financial", 0.13],
+        ["earnings releases presentations", 0.12],
+        ["european reconstruction efforts", 0.12],
+        ["unlocking business productivity", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "BGC Partners",
+            "domain": "bgcpartners.com",
+            "link": "http://bgcpartners.com",
+            "description": "BGC Partners, Inc. is a leading global brokerage company servicing the wholesale financial and real estate markets.",
+            "location": "New York, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "firm, financial",
+            "score": "High"
+        }],
+        [1, {
+            "name": "BlackRock",
+            "domain": "blackrock.com",
+            "link": "http://blackrock.com",
+            "description": "BlackRock is a publicly traded investment management firm. The firm manages assets on behalf of institutions and individuals worldwide through a variety of equity, fixed income, cash management and alternative investment products. In addition, a growing number of institutional investors use BlackRock Solutions investment system, risk management, and financial advisory services. Founded in 1988, the company is headquartered in New York, NY.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "financial",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Startup Exemption",
+            "domain": "startupexemption.com",
+            "link": "http://startupexemption.com",
+            "description": "Startup Exemption is a service provider of seed generation with social networks using SEC-registered websites.",
+            "location": "Miami Beach, Florida, United States",
+            "size": "5001-10000",
+            "shared_cats": "securities, financial",
+            "score": "High"
+        }],
+        [3, {
+            "name": "HUB International",
+            "domain": "hubinternational.com",
+            "link": "http://hubinternational.com",
+            "description": "HUB International was formed with the merger of 11 privately held Canadian insurance brokerages in 1998.",
+            "location": "Chicago, Illinois, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Paladyne Systems",
+            "domain": "paladyne.com",
+            "link": "http://paladyne.com",
+            "description": "First of a kind cloud based Investment Management solution suite for Buy-Side Financial Industry",
+            "location": "New York, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "financial",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Broadridge",
+            "domain": "broadridge.com",
+            "link": "http://broadridge.com",
+            "description": "Broadridge is a provider of investor communications and technology solutions for broker dealers, banks, mutual funds and corporate issuers.",
+            "location": "New York, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "financial",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Dojima",
+            "domain": "dojima-solutions.com",
+            "link": "http://dojima-solutions.com",
+            "description": "Dojima is a niche technology firm",
+            "location": "New Hyde Park, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "financial",
+            "score": "High"
+        }],
+        [7, {
+            "name": "MUFG",
+            "domain": "mufgamericas.com",
+            "link": "http://mufgamericas.com",
+            "description": "Founded in 2005, Bank of Tokyo-Mitsubishi UFJ (BTMU) is Japan's primary bank, with a global network spanning more than 40 countries. It offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide. In the Americas, BTMU has offices throughout the United States and in Canada, Mexico and both Central and South America, serving mainly corporate clients. BTMU's parent, Mitsubishi UFJ Financial Group, Inc. (MUFG), is one of the world's leading financial groups. The America's headquarters are in New York, New York.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "securities",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "RiskMetrics",
+            "domain": "riskmetrics.com",
+            "link": "http://riskmetrics.com",
+            "description": "RiskMetrics Group provides financial analytics and wealth management solutions to hundreds of financial institutions.",
+            "location": "New York, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Brown Brothers Harriman",
+            "domain": "bbh.com",
+            "link": "http://bbh.com",
+            "description": "Brown Brothers Harriman & Co. is an American investment bank and securities firm, founded in 1818, it is the oldest and largest private bank in the United States. Brown Brothers Harriman serves clients globally in three main businesses: Investment Banking & Advisory, Wealth Management, Commercial Banking and Investor Services for corporate institutions and HNWI clients. In addition to its commercial banking facilities, the firm provides global custody, foreign exchange, private equity, merger and acquisition services, investment management for individuals and institutions, personal trust & estate administration, and securities brokerage. Their headquarters is in New York, New York.",
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "amazon.com",
+    "categories": [
+        ["online shopping", 0.18],
+        ["apparel", 0.13],
+        ["books", 0.12],
+        ["electronics", 0.08],
+        ["gift", 0.07]
+    ],
+    "keywords": [
+        ["electronics apparel computers", 0.23],
+        ["discounted overstock items", 0.23],
+        ["bezos speaks candidly", 0.23],
+        ["shipments net zero", 0.23],
+        ["big bets knowing", 0.23],
+        ["dvds", 0.21],
+        ["getting support", 0.2],
+        ["amazonian", 0.2],
+        ["online shopping", 0.18],
+        ["fulfillment", 0.16]
+    ],
+    "comps": [
+        [0, {
+            "name": "Dollar General Corporation",
+            "domain": "dollargeneral.com",
+            "link": "http://dollargeneral.com",
+            "description": "Dollar General Corporation is the nation's largest small-box discount retailer. They make shopping for everyday needs simpler and",
+            "location": "Goodlettsville, Tennessee, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [1, {
+            "name": "Walmart",
+            "domain": "walmart.com",
+            "link": "http://walmart.com",
+            "description": "Walmart is a multinational retail corporation that operates several chains of discount department and warehouse stores.",
+            "location": "Bentonville, Arkansas, United States",
+            "size": "10000+",
+            "shared_cats": "fulfillment",
+            "score": "Medium"
+        }],
+        [2, {
+            "name": "FITIQUETTE",
+            "domain": "fitiquette.com",
+            "link": "http://fitiquette.com",
+            "description": "Fitiquette\u00ac\u2020provides a virtual fitting room for shoppers to create a virtual imitation of themselves\u00ac\u2020to try-on and buy\u00ac\u2020clothing\u00ac\u2020online.",
+            "location": "San Francisco, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "Food City",
+            "domain": "foodcity.com",
+            "link": "http://foodcity.com",
+            "description": "KVAT Food Stores Inc. is a largest Supermarket Chains, 55th on Supermarket News.",
+            "location": "Abingdon, Virginia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "Costco Wholesale",
+            "domain": "costco.com",
+            "link": "http://costco.com",
+            "description": "Costco is a membership-only warehouse club that provides a wide selection of merchandise.",
+            "location": "Issaquah, Washington, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Gander Mountain",
+            "domain": "gandermountain.com",
+            "link": "http://gandermountain.com",
+            "description": "Gander Mountain Company is a retail network of specialty stores for hunting, fishing, camping, and outdoor lifestyle products and services.",
+            "location": "Saint Paul, Minnesota, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "TigerDirect",
+            "domain": "tigerdirect.com",
+            "link": "http://tigerdirect.com",
+            "description": "Industry\u201a\u00c4\u00f4s top computer and computer-product retailers",
+            "location": "Miami, Florida, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Camping World",
+            "domain": "campingworld.com",
+            "link": "http://campingworld.com",
+            "description": "Camping World is an American corporation specializing in selling parts and service for recreational vehicles and supplies for camping.",
+            "location": "Bowling Green, Kentucky, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Lettuce Entertain You Restaurants",
+            "domain": "leye.com",
+            "link": "http://leye.com",
+            "description": "Since 1971, LEYE has maintained a sense of humor and enjoyment while creating high quality, successful restaurants.",
+            "location": "Chicago, Illinois, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Low"
+        }]
+    ]
+} ,{
+    "domain": "deloitte.com",
+    "categories": [
+        ["audit", 0.11],
+        ["network", 0.1],
+        ["accounting", 0.09],
+        ["tax", 0.09],
+        ["technology", 0.01]
+    ],
+    "keywords": [
+        ["dttl", 0.77],
+        ["member firms", 0.6],
+        ["related entities", 0.3],
+        ["touche tohmatsu limited", 0.28],
+        ["audit consulting", 0.27],
+        ["refers", 0.22],
+        ["respective affiliates certain", 0.2],
+        ["single focus serving", 0.2],
+        ["attest clients", 0.2],
+        ["entity", 0.2]
+    ],
+    "comps": [
+        [0, {
+            "name": "Deloitte Digital",
+            "domain": "deloittedigital.com",
+            "link": "http://deloittedigital.com",
+            "description": "Deloitte Digital offers strategic, mobile, digital content, digital ERP, web, and digital design, and communication solutions.",
+            "location": "Seattle, Washington, United States",
+            "size": "5001-10000",
+            "shared_cats": "dttl, member firms, entity",
+            "score": "High"
+        }],
+        [1, {
+            "name": "RSM US",
+            "domain": "rsmus.com",
+            "link": "http://rsmus.com",
+            "description": "Founded in 1926, McGladrey & Pullen, LLP operates under the McGladrey brand as a provider of assurance, tax and consulting services nationwide. The company is a licensed CPA firm and is a member of RSM International, the sixth largest global network of independent accounting, tax, and consulting firms. RSM is a managed services provider (MSP).",
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "entity",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Doblin",
+            "domain": "doblin.com",
+            "link": "http://doblin.com",
+            "description": "Doblin is a global innovation firm that combines leading business experience, user research, and a design-led approach to help clients.",
+            "location": "Chicago, Illinois, United States",
+            "size": "10000+",
+            "shared_cats": "touche tohmatsu limited",
+            "score": "High"
+        }],
+        [3, {
+            "name": "EY",
+            "domain": "ey.com",
+            "link": "http://ey.com",
+            "description": null,
+            "location": "New York, NY",
+            "size": "10000+",
+            "shared_cats": "member firms",
+            "score": "High"
+        }],
+        [4, {
+            "name": "PwC",
+            "domain": "pwc.com",
+            "link": "http://pwc.com",
+            "description": "PricewaterhouseCoopers is an accounting firm that provides tax, HR, transactions, performance improvement, and crisis management services.",
+            "location": "Arlington, Virginia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [5, {
+            "name": "EY Society",
+            "domain": "ey-society.com",
+            "link": "http://ey-society.com",
+            "description": "EY Society is a consulting services firm with an expertise in big data and analytics.",
+            "location": "Bellevue, Washington, United States",
+            "size": "10000+",
+            "shared_cats": "member firms",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Pangea3",
+            "domain": "pangea3.com",
+            "link": "http://pangea3.com",
+            "description": "Pangea3 The Global Leader in Legal Outsourcing.",
+            "location": "Eagan, Minnesota, United States",
+            "size": "10000+",
+            "shared_cats": "member firms, entity",
+            "score": "High"
+        }],
+        [7, {
+            "name": "KPMG North America",
+            "domain": "home.kpmg",
+            "link": "http://home.kpmg",
+            "description": "Founded in 1987, KPMG North America is an audit, tax, and advisory firm. It is the U.S. member firm of KPMG International. KPMG International's member firms have 137,000 professionals, including more than 7,600 partners in 144 countries. KPMG is a privately owned firm and maintains its U.S. headquarters in New York City, New York.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Crowe Horwath International",
+            "domain": "crowehorwath.net",
+            "link": "http://crowehorwath.net",
+            "description": "Crowe Horwath International, ranked among the top 10 global accounting networks, consists of more than 200 independent accounting services",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "member firms",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Moore Stephens International",
+            "domain": "moorestephens.com",
+            "link": "http://moorestephens.com",
+            "description": "Moore Stephens Business Solutions is a provider of business intelligence and advanced analytics solutions to the insurance industry.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "oracle.com",
+    "categories": [
+        ["oracle erp", 0.15],
+        ["hardware", 0.06],
+        ["software", 0.06],
+        ["bare", 0.06],
+        ["java", 0.05]
+    ],
+    "keywords": [
+        ["platform services", 0.35],
+        ["cloud", 0.34],
+        ["autonomous database", 0.29],
+        ["applications", 0.16],
+        ["integrated", 0.13],
+        ["straightforward computer software", 0.12],
+        ["embedded innovative technologies", 0.12],
+        ["challenges customers partners", 0.12],
+        ["seize business opportunities", 0.12],
+        ["communities press analysts", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "Flashline",
+            "domain": "flashline.com",
+            "link": "http://flashline.com",
+            "description": "Flashline delivered asset portfolio management solutions that provided enterprise-wide visibility into an organization's software.",
+            "location": "Cleveland, Ohio, United States",
+            "size": "10000+",
+            "shared_cats": "cloud, platform services, applications",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Metaserver Inc.",
+            "domain": "metaserver.com",
+            "link": "http://metaserver.com",
+            "description": "A pioneer in the continuously evolving software-based business process integration market.",
+            "location": "New Haven, Connecticut, United States",
+            "size": "10000+",
+            "shared_cats": "cloud, platform services, applications",
+            "score": "High"
+        }],
+        [2, {
+            "name": "StoreBusters Inc",
+            "domain": "storebusters.com",
+            "link": "http://storebusters.com",
+            "description": "StoreBusters Inc., an automated online selling service.",
+            "location": "Salt Lake City, Utah, United States",
+            "size": "10000+",
+            "shared_cats": "cloud, platform services, applications",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Active Reasoning",
+            "domain": "activereasoning.com",
+            "link": "http://activereasoning.com",
+            "description": "Stay connected with all things #Oracle: products, services, training, news, events, promotions, and more.",
+            "location": "San Mateo, California, United States",
+            "size": "10000+",
+            "shared_cats": "cloud, platform services, applications",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Responsys",
+            "domain": "responsys.com",
+            "link": "http://responsys.com",
+            "description": "Responsys is a cloud software and services company helping brands to manage their digital relationships across email, mobile and the web.",
+            "location": "San Bruno, California, United States",
+            "size": "10000+",
+            "shared_cats": "applications",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Sun Microsystems",
+            "domain": "sun.com",
+            "link": "http://sun.com",
+            "description": "Sun Microsystems is a multinational vendor of computers, computer software and hardware, and information technology services.",
+            "location": "Santa Clara, California, United States",
+            "size": "10000+",
+            "shared_cats": "cloud",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Symantec",
+            "domain": "symantec.com",
+            "link": "http://symantec.com",
+            "description": "Symantec provides security, storage, and systems management solutions that help consumers secure and manage their information.",
+            "location": "Mountain View, California, United States",
+            "size": "10000+",
+            "shared_cats": "cloud, integrated",
+            "score": "High"
+        }],
+        [7, {
+            "name": "ReefEdge",
+            "domain": "reefedge.com",
+            "link": "http://reefedge.com",
+            "description": "ReefEdge provides wireless local area network systems for multi-site enterprises to deploy, manage, and secure wireless networks.",
+            "location": "Fort Lee, New Jersey, United States",
+            "size": "10000+",
+            "shared_cats": "cloud",
+            "score": "High"
+        }],
+        [8, {
+            "name": "3Com",
+            "domain": "3com.com",
+            "link": "http://3com.com",
+            "description": "3Com provides network-based intrusion prevention systems that deliver application, infrastructure and performance protection.",
+            "location": "Santa Clara, California, United States",
+            "size": "5001-10000",
+            "shared_cats": "cloud",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Workday",
+            "domain": "workday.com",
+            "link": "http://workday.com",
+            "description": "Workday provides SaaS-based enterprise solutions for a company's human resources and financial management activities.",
+            "location": "Pleasanton, California, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "citigroup.com",
+    "categories": [
+        ["bank", 0.16],
+        ["internet explorer", 0.12],
+        ["microsoft", 0.07],
+        ["mastercard", 0.06],
+        ["shipping", 0.06]
+    ],
+    "keywords": [
+        ["global bank", 0.25],
+        ["progress makers", 0.23],
+        ["financial services", 0.2],
+        ["cardmembers", 0.2],
+        ["microsoft internet explorer", 0.17],
+        ["enable growth", 0.16],
+        ["integrate climate considerations", 0.12],
+        ["north american integration", 0.12],
+        ["headed usmca ratification", 0.12],
+        ["seamlessly redeem rewards", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "Citibank",
+            "domain": "citibank.com",
+            "link": "http://citibank.com",
+            "description": "Citibank is a U.S. based global consumer bank providing a host of banking and financial services. \u00ac\u2020\u00ac\u2020",
+            "location": "San Antonio, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "financial services, global bank, enable growth, microsoft internet explorer",
+            "score": "High"
+        }],
+        [1, {
+            "name": "State National Bancshares",
+            "domain": "statenationalbank.com",
+            "link": "http://statenationalbank.com",
+            "description": "State National Bancshares is a bank holding company offering a broad range of financial products and services",
+            "location": "Fort Worth, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [2, {
+            "name": "IHS",
+            "domain": "ihs.com",
+            "link": "http://ihs.com",
+            "description": "IHS Inc. provides critical information and insight products and services through Internet-based applications and portals. It offers its",
+            "location": "Englewood, Colorado, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "BBVA Compass",
+            "domain": "bbvacompass.com",
+            "link": "http://bbvacompass.com",
+            "description": "BBVA Compass provides banking services.",
+            "location": "Birmingham, Alabama, United States",
+            "size": "10000+",
+            "shared_cats": "financial services",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "EY",
+            "domain": "ey.com",
+            "link": "http://ey.com",
+            "description": null,
+            "location": "New York, NY",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Purvin & Gertz",
+            "domain": "purvingertz.com",
+            "link": "http://purvingertz.com",
+            "description": "Purvin & Gertz is an international energy consulting firm providing services to the crude oil, petroleum refining, natural gas, LPG, NGL",
+            "location": "Houston, Texas, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Grainger",
+            "domain": "grainger.com",
+            "link": "http://grainger.com",
+            "description": "W.W. Grainger (NYSE: GWW), with 2008 sales of $6.9 billion, is the leading broad-line supplier of facilities maintenance products serving",
+            "location": "Savannah, Georgia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Mizuho Bank",
+            "domain": "mizuhobank.com",
+            "link": "http://mizuhobank.com",
+            "description": "Mizuho Bank Ltd., known as the largest institution of Mizuho Financial Group, is a leading financial institution with one of the largest customer bases in Japan. Having completed the merger between Mizuho Bank and Mizuho Corporate Bank in July 2013, renewed Mizuho Bank pursues the further development of a global and open financial group based on \"One Mizuho\" strategies. With 461 domestic branches and 37 overseas branches and relevant offices (as of September 2014), Mizuho Bank provides all individual and corporate customers with an effective and multifaceted range of comprehensive financial services.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "PNC",
+            "domain": "pnc.com",
+            "link": "http://pnc.com",
+            "description": "PNC Financial Services Group, Inc. is one of the nation's largest diversified financial services organizations providing banking.",
+            "location": "Pittsburgh, Pennsylvania, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Union Bank",
+            "domain": "unionbank.com",
+            "link": "http://unionbank.com",
+            "description": "Union Bank personifies relationship banking and responsible banking.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "macmall.com",
+    "categories": [
+        ["discount", 0.11],
+        ["reseller", 0.09],
+        ["newsletter", 0.07],
+        ["rebate", 0.05],
+        ["electronics", 0.04]
+    ],
+    "keywords": [
+        ["apple", 0.52],
+        ["computers ipads accessories", 0.23],
+        ["item s", 0.22],
+        ["branded products", 0.13],
+        ["el segundo", 0.13],
+        ["cart", 0.13],
+        ["easy implementation discover", 0.12],
+        ["consumer electronics online", 0.12],
+        ["savings exclusive bundles", 0.12],
+        ["huge discounted prices", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "uBreakiFix",
+            "domain": "ubreakifix.com",
+            "link": "http://ubreakifix.com",
+            "description": "uBreakiFix is an international electronics repair franchise that operates in the US, Canada and Puerto Rico.",
+            "location": "Orlando, Florida, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Oakley",
+            "domain": "oakley.com",
+            "link": "http://oakley.com",
+            "description": "Oakley Sunglasses is an online marketplace for sunglasses as well as sportswear.",
+            "location": "Foothill Ranch, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [2, {
+            "name": "PCM",
+            "domain": "pcm.com",
+            "link": "http://pcm.com",
+            "description": "PCM is a direct marketer of technology products, services, and solutions to businesses, government, educational institutions, and more.",
+            "location": "El Segundo, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "el segundo",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Belkin International",
+            "domain": "belkin.com",
+            "link": "http://belkin.com",
+            "description": "Belkin International develops computer and consumer electronics that specializes in providing connectivity solutions.",
+            "location": "Playa Vista, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Gander Mountain",
+            "domain": "gandermountain.com",
+            "link": "http://gandermountain.com",
+            "description": "Gander Mountain Company is a retail network of specialty stores for hunting, fishing, camping, and outdoor lifestyle products and services.",
+            "location": "Saint Paul, Minnesota, United States",
+            "size": "5001-10000",
+            "shared_cats": "cart",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Circuit City",
+            "domain": "circuitcity.com",
+            "link": "http://circuitcity.com",
+            "description": "Circuit City Electronics is a vibrant, innovative company which focuses primarily on distributing and marketing \u201a\u00c4\u00facool stuff\u201a\u00c4\u00f9.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "JCPenney",
+            "domain": "jcpenney.com",
+            "link": "http://jcpenney.com",
+            "description": "J. C. Penney Company, Inc., one of the nation's largest apparel and home furnishings retailers, is on a mission to ensure every customer's shopping experience is worth her time, money and effort. Whether shopping jcp.com or visiting one of over 1,000 store locations across the United States and Puerto Rico, she will discover a broad assortment of products from a leading portfolio of private, exclusive and national brands. Supporting this value proposition is the warrior spirit of over 100,000 JCPenney associates worldwide, who are focused on the Company's three strategic priorities of strengthening private brands, becoming a world-class omni-channel retailer and increasing revenue per customer.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "99 Cents Only Stores",
+            "domain": "99only.com",
+            "link": "http://99only.com",
+            "description": "A premier deep-discount retailer that primarily carries name-brand consumable and general merchandise.",
+            "location": "Commerce, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Cartridge World",
+            "domain": "cartridgeworld.com",
+            "link": "http://cartridgeworld.com",
+            "description": "ink and toner refilling retailer",
+            "location": "Atlanta, Georgia, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Acme Markets",
+            "domain": "acmemarkets.com",
+            "link": "http://acmemarkets.com",
+            "description": "Acme Markets Inc. is a supermarket chain in the Delaware Valley and New York City metropolitan areas, in the United States.",
+            "location": "Philadelphia, Pennsylvania, United States",
+            "size": "10000+",
+            "shared_cats": "cart",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "clarktesting.com",
+    "categories": [
+        ["fax", 0.12],
+        ["particle", 0.12],
+        ["hydraulic", 0.1],
+        ["chemistry", 0.09],
+        ["chemical", 0.07]
+    ],
+    "keywords": [
+        ["jefferson hills pa", 0.54],
+        ["product qualification", 0.47],
+        ["design verification", 0.31],
+        ["paul heffernan", 0.23],
+        ["route", 0.19],
+        ["tel", 0.17],
+        ["analytical chemistry", 0.16],
+        ["mechanical", 0.14],
+        ["composition qualitative identification", 0.12],
+        ["characterization program analyzes", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "NSL Analytical Services",
+            "domain": "nslanalytical.com",
+            "link": "http://nslanalytical.com",
+            "description": "NSL Analytical Services is a chemicals firm that provides testing services for chemical, metallurgical, and powder materials.",
+            "location": "Cleveland, Ohio, United States",
+            "size": "11-50",
+            "shared_cats": "mechanical",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Truesdail Laboratories",
+            "domain": "truesdail.com",
+            "link": "http://truesdail.com",
+            "description": "Truesdail Laboratories, Inc. provides analytical and certification services. The company offers environmental testing services, including air analysis, toxic substance and pesticides, asbestos, solid waste, radiochemistry, and water quality and wastewater testing; microbiology services, which include bacteriological examinations, total coliform, steptococci, fungus resistance, aerobic plate counts, particle counts, and asbestos testing; and analytical chemistry services, which include flammability studies, coatings and paints, polymers and plastics, gas analysis, instrument and wet chemistry, and trace element analysis, as well as fuels, oils, and petrochemicals testing. It also provides product/specialty testing services, such as plumbing testing and listing, product certification, jewelry testing, and system component listings, as well as testing services for toys and products intended for children; veterinary testing services, including drug confirmation testing, pre-purchase drug testing, drug detection and identification, drug potency and purity, drug clearance, environmental analysis, drug contamination studies, and pharmaceutical assays; and Chrom VI, drinking water, hydraulic, hydrazine, and solid waste testing, as well as field services. The company was founded in 1931 and is based in Tustin, California.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Comus Group",
+            "domain": "comus-intl.com",
+            "link": "http://comus-intl.com",
+            "description": "Comus International is a manufacturer of tilt and tip-over switches, motion/vibration sensors, reed switches, reed relays, solid state relays, proximity sensors, float switches and a wide variety of custom turnkey sensors. The company has evolved into a world leader in the design, development and manufacture of a wide variety of sensors and sensor-related products. Applications are found in such diverse market segments as medical, automotive, white goods, alarm and security, and military/aerospace.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "tel",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "Gibraltar Laboratories",
+            "domain": "gibraltarlabsinc.com",
+            "link": "http://gibraltarlabsinc.com",
+            "description": "Gibraltar Laboratories, Inc. provides microbiology, virology, and analytical chemistry services for pharmaceutical, medical device, orthopedic, biopharmaceutical, biotech, nutraceutical, cosmetic, specialty chemical, and tissue bank industries. Its analytical chemistry services include compendial testing of raw material and drug products; forced degradation and stability studies; development and validation of test methods for testing of active drug substances and dosage forms; dissolution test method validation; plan and development of analytical cleaning; validation studies; method transfer; process validation; and residual solvents/volatile organic impurities. The company develops sterilization protocols and performs bioburden testing services, as well as provides a range of chemistry studies, including, qualification of APIs and raw materials, ETO residuals, residual solvents, ion chromatography, particulates, hemoglobin, and stability testing. In addition, it offers protocol development and validation testing for microbiological validations and chemical validations that include process validation, method development, validation, and transfer, as well as evaluation of vaccine/host systems for hemagglutination, inclusion bodies, mycoplasma, and adventitious viruses. Further, the company provides environmental monitoring services in pharmaceutical plants, including water, nitrogen, compressed air, and other gasses for particulate debris, hydrocarbons, airborne particulate matters, and contaminating microorganisms. Gibraltar Laboratories, Inc. was founded in 1970 and is based in Fairfield, New Jersey.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "WMT&R",
+            "domain": "wmtr.com",
+            "link": "http://wmtr.com",
+            "description": "Westmoreland Mechanical Testing & Research, Inc. is an American research testing company for the medical, automotive, nuclear, and aerospace industries.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Pulva Corporation",
+            "domain": "pulva.com",
+            "link": "http://pulva.com",
+            "description": "Pulva Corporation was founded in 1988. The company's line of business includes the manufacturing of heavy machinery and equipment.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "tel",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "GMW Associates",
+            "domain": "gmw.com",
+            "link": "http://gmw.com",
+            "description": "GMW Associates is a sensor integration and distributions company developing products for on-contact, isolated sensing of mechanical position and magnetic material. It is based in San Carlos, CA.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Exelon PowerLabs",
+            "domain": "exelonpowerlabs.com",
+            "link": "http://exelonpowerlabs.com",
+            "description": "Exelon PowerLabs, LLC provides calibration of measuring and test equipment, and failure analysis and component testing services. The company offers electrical and physical measurement services, including equipment recommendations and application consultation; electrical, mechanical, and metallurgical equipment and component failure analysis; and recommendations for failure prevention, repairs, material selection, and root-cause analysis. It also offers radioactive component failure analysis and testing; overhead T&D component failure analysis and testing; electrical and electronic instrumentation failure analysis; EMI-RFI testing and performance analysis; commercial grade dedication and testing; component and product testing; fuels, lubricants, and transformer fluids and gasses testing services. The company was founded in 1911 and is based in Coatesville, Pennsylvania with facilities in Wilmington, Illinois; Plattsburgh, New York; and Madison Pennsylvania. Exelon PowerLabs, LLC operates as a subsidiary of Exelon Generation Company, LLC.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "mechanical",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "E-Labs",
+            "domain": "e-labsinc.com",
+            "link": "http://e-labsinc.com",
+            "description": "E-Labs is a Full-Service Testing Laboratory that evaluates the stability of products and technology. They work with industries such as aerospace, automotive, military, commercial, utility, electronics, and Information Technology entities to support testing needs.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "mechanical",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Quantum Design",
+            "domain": "qdusa.com",
+            "link": "http://qdusa.com",
+            "description": "Quantum Design, Inc. develops, manufactures, and markets automated temperature and magnetic field testing platforms for materials characterization. Its products include a physical property measurement system (PPMS) for a range of magnetic, thermal, and electrical measurements; a magnetic property measurement system (MPMS) that is a high-sensitivity SQUID magnetometer for magnetic measurements; MPMS SQUID VSM that is a SQUID sensitivity combined with the vibrating sample magnetometer; portable and cryogen-free instruments that provide a suite of magnetic, thermal, and electrical measurements; and cryogen-free design solutions, which provide PPMS performance and measurements. The company also provides advanced technology liquefiers with helium recovery, storage, and purification systems to recover helium gas lost from normal boil off and helium transfers; scanning probe microscopes for the PPMS certified; high-performance and compact IR image furnaces; high pressure cell kits for the MPMS that allow sample insertion and removal without the need of an hydraulic press; and a line of DC SQUID sensors and electronics for custom applications. In addition, it offers sensitive and magnetic immunoassay systems for the detection of a range of biochemical analytes for use in medical, food safety, and environmental diagnostics; various scientific and industrial instrumentation solutions; and various technical support services. The company offers its automated materials characterization systems for research applications in the fields of physics, chemistry, materials science, nanotechnology, and biotechnology. It offers its products through its network of local direct offices around the world. The company was founded in 1982 and is based in San Diego, California.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "boeing.com",
+    "categories": [
+        ["security", 0.18],
+        ["aerospace", 0.15],
+        ["passenger", 0.1],
+        ["airline", 0.1],
+        ["aviation", 0.08]
+    ],
+    "keywords": [
+        ["defense space security", 0.46],
+        ["company senior vice", 0.46],
+        ["president", 0.38],
+        ["commercial jetliners", 0.35],
+        ["airplanes", 0.28],
+        ["tours", 0.24],
+        ["prologue room", 0.23],
+        ["executive", 0.23],
+        ["global services", 0.18],
+        ["officer", 0.18]
+    ],
+    "comps": [
+        [0, {
+            "name": "R1 RCM",
+            "domain": "r1rcm.com",
+            "link": "http://r1rcm.com",
+            "description": "R1 RCM serves as a revenue cycle management partner for hospitals and healthcare systems regardless of the payment models.",
+            "location": "Chicago, Illinois, United States",
+            "size": "10000+",
+            "shared_cats": "officer",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Reliance Steel & Aluminum Co.",
+            "domain": "rsac.com",
+            "link": "http://rsac.com",
+            "description": "Founded in 1939, Reliance Steel & Aluminum Co., headquartered in Los Angeles, California, is the largest metals service center company in North America. Through a network of more than 200 locations in 38 states and Belgium, Canada, China, Mexico, South Korea and the United Kingdom, the Company provides value-added metals processing services and distributes a full line of over 100,000 metal products to more than 125,000 customers in a broad range of industries.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "officer, executive",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Avaya",
+            "domain": "avaya.com",
+            "link": "http://avaya.com",
+            "description": "Avaya provides business communications and collaboration systems, applications and services.",
+            "location": "Santa Clara, California, United States",
+            "size": "5001-10000",
+            "shared_cats": "executive, officer",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Brightstar",
+            "domain": "brightstar.com",
+            "link": "http://brightstar.com",
+            "description": "Brightstar provides innovate and best in class solutions to manufacturers, operators and enterprises in the telecommunication industry.",
+            "location": "Miami, Florida, United States",
+            "size": "5001-10000",
+            "shared_cats": "president, officer, executive",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Xpedx",
+            "domain": "xpedx.com",
+            "link": "http://xpedx.com",
+            "description": "Xpedx is a B2B distribution company that offers print, packaging, and facility solutions.",
+            "location": "Loveland, Ohio, United States",
+            "size": "5001-10000",
+            "shared_cats": "officer, executive",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Unisource Worldwide",
+            "domain": "unisourceworldwide.com",
+            "link": "http://unisourceworldwide.com",
+            "description": "Unisource Worldwide, Inc. helps enterprise-level companies improve bottom-line performance.",
+            "location": "Norcross, Georgia, United States",
+            "size": "5001-10000",
+            "shared_cats": "officer, executive",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Dow Jones",
+            "domain": "dowjones.com",
+            "link": "http://dowjones.com",
+            "description": "Founded in 1882, Dow Jones & Company is a News Corporation company and a provider of global news and business information. Its principal products include The Wall Street Journal, Dow Jones Newswires, Dow Jones Factiva, Barron's and MarketWatch. Through its Local Media Group, Dow Jones operates community-based newspapers and Web sites. Dow Jones also provides news content to television and radio stations. The company is located in New York, New York with offices worldwide.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "officer, executive",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Veritiv",
+            "domain": "veritivcorp.com",
+            "link": "http://veritivcorp.com",
+            "description": "Veritiv Corporation (NYSE: VRTV), headquartered in Atlanta and a Fortune 500 company, is a leading North American business-to-business distributor of print, publishing, packaging, and facility solutions; and also a provider of logistics and supply chain management services. Serving customers in a wide range of industries, the Company has approximately 180 distribution centers throughout the U.S., Mexico, and Canada, and employs approximately 8,800 team members worldwide that help shape the success of its customers.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "officer, executive",
+            "score": "High"
+        }],
+        [8, {
+            "name": "NeoAccel",
+            "domain": "neoaccel.com",
+            "link": "http://neoaccel.com",
+            "description": "NEOACCEL provides end-to-end security solutions for enterprises, cloud computing, and VMWare and Xen environments.",
+            "location": "San Jose, California, United States",
+            "size": "10000+",
+            "shared_cats": "officer",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Blue Lane Technologies",
+            "domain": "bluelane.com",
+            "link": "http://bluelane.com",
+            "description": "Blue Lane Technologies provides vulnerability shields for physical and virtual server infrastructure.",
+            "location": "Cupertino, California, United States",
+            "size": "10000+",
+            "shared_cats": "officer",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "rapidminer.com",
+    "categories": [
+        ["data science", 0.71],
+        ["predictive analytics", 0.36],
+        ["machine learning", 0.35],
+        ["designer", 0.06],
+        ["notebook", 0.06]
+    ],
+    "keywords": [
+        ["data science", 0.71],
+        ["avoid risks", 0.59],
+        ["scientists simplified", 0.58],
+        ["end collaboration platform", 0.46],
+        ["predict opportunities", 0.46],
+        ["transparency governance", 0.44],
+        ["drive revenue cut", 0.44],
+        ["predictive analytics", 0.36],
+        ["lightning fast business", 0.35],
+        ["machine learning", 0.35]
+    ],
+    "comps": [
+        [0, {
+            "name": "Elder Research",
+            "domain": "elderresearch.com",
+            "link": "http://elderresearch.com",
+            "description": "Elder Research, the U.S.'s premier data science consulting company, has vast cross-industry knowledge in predictive analytics improvement and deployment, superior textual content and data mining, and data visualization solutions. Headquartered in Charlottesville, VA they additionally have expanded to Washington DC, Baltimore, Maryland, and Raleigh, North Carolina.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "data science",
+            "score": "High"
+        }],
+        [1, {
+            "name": "RiskSpan",
+            "domain": "riskspan.com",
+            "link": "http://riskspan.com",
+            "description": "RiskSpan offers end-to-end solutions for data management, risk management analytics, and visualization.",
+            "location": "Arlington, Virginia, United States",
+            "size": "51-200",
+            "shared_cats": "machine learning",
+            "score": "High"
+        }],
+        [2, {
+            "name": "StreamBase Systems",
+            "domain": "streambase.com",
+            "link": "http://streambase.com",
+            "description": "StreamBase is an event processing platform that analyzes real-time streaming data for decision-making purposes.",
+            "location": "Lexington, Massachusetts, United States",
+            "size": "51-200",
+            "shared_cats": "data science",
+            "score": "High"
+        }],
+        [3, {
+            "name": "VOZIQ",
+            "domain": "voziq.com",
+            "link": "http://voziq.com",
+            "description": "VOZIQ offers cloud-based machine learning and big data analytics solutions. It also offers built-in intelligence operationalization and on-demand professional support. The company was founded in 2012 and is based in Reston, Virginia.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "machine learning",
+            "score": "High"
+        }],
+        [4, {
+            "name": "DataRobot",
+            "domain": "datarobot.com",
+            "link": "http://datarobot.com",
+            "description": "DataRobot provides a predictive analytics platform to rapidly build and deploy predictive models the cloud or an enterprise.",
+            "location": "Boston, Massachusetts, United States",
+            "size": "51-200",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [5, {
+            "name": "KenSci",
+            "domain": "kensci.com",
+            "link": "http://kensci.com",
+            "description": "KenSci is a disease management risk prediction platform that helps healthcare companies and other AI researchers save costs and lives. The platform shows insights for disease, care, cost and operations. They also offer High speed experimentation, Ability to run on any infrastructure and Better productivity. Founded in 2015, they are headquartered in Seattle, WA with offices in Singapore and Hyderabad India.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "data science, machine learning",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Opera Solutions",
+            "domain": "operasolutions.com",
+            "link": "http://operasolutions.com",
+            "description": "Opera Solutions provides advanced analytics software solutions that help organizations extract actionable insights from Big Data at scale.",
+            "location": "Jersey City, New Jersey, United States",
+            "size": "201-500",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "GradientAI",
+            "domain": "gradientai.com",
+            "link": "http://gradientai.com",
+            "description": null,
+            "location": "10 Fawcett St, Cambridge, MA, 02138, United States",
+            "size": "11-50",
+            "shared_cats": "predictive analytics, machine learning",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Predikto",
+            "domain": "predikto.com",
+            "link": "http://predikto.com",
+            "description": "Predikto is an IT services company headquartered in Atlanta Georgia. They specialize in creating software and providing IT service options for company.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "machine learning",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Open Data Group",
+            "domain": "opendatagroup.com",
+            "link": "http://opendatagroup.com",
+            "description": "Open Data Group (ODG) is fundamentally changing the way predictive \u201cbig data\u201d analytics and data science models are deployed in enterprises. ODG's products and services allow organizations to optimize their data science spend by targeting the highest value activity: predictive model creation. ODG is creating a new category of competency within Fortune 100 analytics teams, enabling efficient management of predictive models and operationalizing the deployment of those models into high value, high performance prediction engines. ODG enables a new class of analytics operations teams to easily manage and deploy an organization's predictive models and track their efficacy.",
+            "location": null,
+            "size": "11-50",
+            "shared_cats": "machine learning",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "thoughtspot.com",
+    "categories": [
+        ["drill", 0.1],
+        ["research", 0.1],
+        ["warranty", 0.08],
+        ["architecture", 0.06]
+    ],
+    "keywords": [
+        ["ai driven analytics", 1.01],
+        ["search", 0.49],
+        ["gartner", 0.4],
+        ["insights", 0.39],
+        ["datum", 0.33],
+        ["data questions", 0.27],
+        ["spotiq", 0.23],
+        ["seconds", 0.22],
+        ["bi", 0.22],
+        ["explore analyze", 0.2]
+    ],
+    "comps": [
+        [0, {
+            "name": "ProClarity",
+            "domain": "proclarity.com",
+            "link": "http://proclarity.com",
+            "description": "ProClarity develops advanced analysis and visualization technologies for Microsoft software.",
+            "location": "Boise, Idaho, United States",
+            "size": "51-200",
+            "shared_cats": "gartner, datum",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Sisense",
+            "domain": "sisense.com",
+            "link": "http://sisense.com",
+            "description": "Sisense simplifies business analytics for complex data by providing a complete solution for preparing, analyzing and visualizing big data.",
+            "location": "New York, New York, United States",
+            "size": "201-500",
+            "shared_cats": "datum, gartner, bi",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Intellicus Technologies",
+            "domain": "intellicus.com",
+            "link": "http://intellicus.com",
+            "description": "Intellicus Technologies, a leading provider of Enterprise Reporting and Business Insights Platform, today announced the release of Intellicus Mobile Application on the Apple App Store. This announcement was made at the Oracle Open World, San Francisco, where the company also gave a live demonstration of this application.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "bi, datum",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Birst",
+            "domain": "birst.com",
+            "link": "http://birst.com",
+            "description": "Birst is a global leader in cloud business intelligence and analytics for the enterprise.",
+            "location": "San Francisco, California, United States",
+            "size": "201-500",
+            "shared_cats": "bi, datum, gartner, search",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Periscope Data",
+            "domain": "periscopedata.com",
+            "link": "http://periscopedata.com",
+            "description": "Periscope Data is the most powerful, flexible analytics platform for data professionals and business users.",
+            "location": "San Francisco, California, United States",
+            "size": "51-200",
+            "shared_cats": "datum, bi, insights, gartner",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Zoomdata",
+            "domain": "zoomdata.com",
+            "link": "http://zoomdata.com",
+            "description": "Zoomdata, based in Reston, Va., delivers a no-ETL, real-time big data visualization application that helps business analysts combine multiple data streams, create beautiful real-time interactive visuals and share their work and insights on tablets and browsers securely and instantly.",
+            "location": "11921 Freedom Dr Ste 750, Reston, VA, 20190, United States",
+            "size": "51-200",
+            "shared_cats": "datum",
+            "score": "High"
+        }],
+        [6, {
+            "name": "InsightSquared",
+            "domain": "insightsquared.com",
+            "link": "http://insightsquared.com",
+            "description": "InsightSquared equips revenue operations professionals with actionable, real-time intelligence on sales and marketing KPIs.",
+            "location": "Boston, Massachusetts, United States",
+            "size": "51-200",
+            "shared_cats": "datum",
+            "score": "High"
+        }],
+        [7, {
+            "name": "OWOX BI",
+            "domain": "owox.com",
+            "link": "http://owox.com",
+            "description": "OWOX BI products helps consolidate, process, analyze and extract insights from data.",
+            "location": "Los Angeles, California, United States",
+            "size": "51-200",
+            "shared_cats": "bi, datum, search",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Guavus",
+            "domain": "guavus.com",
+            "link": "http://guavus.com",
+            "description": "Guavus is a big data analytics company developing apps that allow companies to embed data driven-decisions into agile businesses processes.",
+            "location": "San Mateo, California, United States",
+            "size": "201-500",
+            "shared_cats": "datum",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Logi Analytics",
+            "domain": "logianalytics.com",
+            "link": "http://logianalytics.com",
+            "description": "Logi Analytics offers a web-based reporting and data visualization platform that provides business intelligence solutions.",
+            "location": "Mclean, Virginia, United States",
+            "size": "51-200",
+            "shared_cats": "bi, datum",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "target.com",
+    "categories": [
+        ["rugs", 0.13],
+        ["furniture", 0.08],
+        ["coupon", 0.05],
+        ["decor", 0.05],
+        ["scan", 0.04]
+    ],
+    "keywords": [
+        ["use code america", 0.23],
+        ["furniture rugs", 0.19],
+        ["large general merchandise", 0.12],
+        ["shopping saving sidekick", 0.12],
+        ["affordably priced items", 0.12],
+        ["exclusive summer treats", 0.12],
+        ["second thoughts wrong", 0.12],
+        ["tgt department stores", 0.12],
+        ["easy returns save", 0.12],
+        ["free order pickup", 0.12]
+    ],
+    "comps": [
+        [0, {
+            "name": "Acme Markets",
+            "domain": "acmemarkets.com",
+            "link": "http://acmemarkets.com",
+            "description": "Acme Markets Inc. is a supermarket chain in the Delaware Valley and New York City metropolitan areas, in the United States.",
+            "location": "Philadelphia, Pennsylvania, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Aaron's",
+            "domain": "aarons.com",
+            "link": "http://aarons.com",
+            "description": "Aaron\u201a\u00c4\u00f4s, Inc. (Aaron\u201a\u00c4\u00f4s) is a specialty retailer of consumer electronics, computers, residential furniture, household appliances.",
+            "location": "Atlanta, Georgia, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Champs Sports",
+            "domain": "champssports.com",
+            "link": "http://champssports.com",
+            "description": "Champs Sports is an American sports retail store, it operates as a subsidiary of Foot Locker.",
+            "location": "Bradenton, Florida, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Value City Furniture",
+            "domain": "valuecityfurniture.com",
+            "link": "http://valuecityfurniture.com",
+            "description": null,
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Gander Mountain",
+            "domain": "gandermountain.com",
+            "link": "http://gandermountain.com",
+            "description": "Gander Mountain Company is a retail network of specialty stores for hunting, fishing, camping, and outdoor lifestyle products and services.",
+            "location": "Saint Paul, Minnesota, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Dollar General Corporation",
+            "domain": "dollargeneral.com",
+            "link": "http://dollargeneral.com",
+            "description": "Dollar General Corporation is the nation's largest small-box discount retailer. They make shopping for everyday needs simpler and",
+            "location": "Goodlettsville, Tennessee, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Petco",
+            "domain": "petco.com",
+            "link": "http://petco.com",
+            "description": "Petco is a pet specialty retailer providing products, services and advice for pet owners.",
+            "location": "San Diego, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Jewel-Osco",
+            "domain": "jewelosco.com",
+            "link": "http://jewelosco.com",
+            "description": "Jewel-Osco, Inc. owns and operates a chain of grocery and general merchandise stores in Chicagoland area, Indiana and Iowa.",
+            "location": "Chicago, Illinois, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Men's Wearhouse",
+            "domain": "menswearhouse.com",
+            "link": "http://menswearhouse.com",
+            "description": "Their mission at Men\u201a\u00c4\u00f4s Wearhouse is to provide value to their customers and deliver top quality customer service, while still having fun",
+            "location": "Houston, Texas, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [9, {
+            "name": "Urban Outfitters",
+            "domain": "urbanoutfitters.com",
+            "link": "http://urbanoutfitters.com",
+            "description": "Urban Outfitters is a global retailer with a boutique approach.",
+            "location": "Philadelphia, Pennsylvania, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "merck.com",
+    "categories": [
+        ["vaccine", 0.35],
+        ["animal", 0.17],
+        ["litigation", 0.12],
+        ["scientific", 0.11],
+        ["health", 0.11]
+    ],
+    "keywords": [
+        ["vaccine", 0.35],
+        ["kenilworth", 0.34],
+        ["forward looking", 0.28],
+        ["medicines", 0.26],
+        ["scientific excellence", 0.24],
+        ["values standards", 0.21],
+        ["msd outside", 0.21],
+        ["statement", 0.2],
+        ["uncertainties", 0.19],
+        ["improve lives", 0.18]
+    ],
+    "comps": [
+        [0, {
+            "name": "Cubist Pharmaceuticals",
+            "domain": "cubist.com",
+            "link": "http://cubist.com",
+            "description": "Cubist Pharmaceuticals, Inc. operates as a biopharmaceutical company focused on the research, development, and commercialization of",
+            "location": "Lexington, Massachusetts, United States",
+            "size": "5001-10000",
+            "shared_cats": "vaccine, forward looking, medicines, scientific excellence, values standards, statement, uncertainties, improve lives, msd outside",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Padlock Therapeutics",
+            "domain": "padlocktherapeutics.com",
+            "link": "http://padlocktherapeutics.com",
+            "description": "Padlock is developing medicines targeting PADs, immune complexes in autoimmune diseases, and more.",
+            "location": "Cambridge, Massachusetts, United States",
+            "size": "10000+",
+            "shared_cats": "forward looking, statement, uncertainties",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Safeguard Health Enterprises",
+            "domain": "safeguard.net",
+            "link": "http://safeguard.net",
+            "description": "SafeGuard Health Enterprises, Inc. was one of the first companies to introduce the concept of managed care dental products.",
+            "location": "Aliso Viejo, California, United States",
+            "size": "10000+",
+            "shared_cats": "forward looking, uncertainties",
+            "score": "High"
+        }],
+        [3, {
+            "name": "MICROS Systems",
+            "domain": "micros.com",
+            "link": "http://micros.com",
+            "description": "MICROS Systems provides enterprise applications for the hospitality and retail industries worldwide.",
+            "location": "Columbia, Maryland, United States",
+            "size": "5001-10000",
+            "shared_cats": "uncertainties",
+            "score": "High"
+        }],
+        [4, {
+            "name": "CardiAQ Valve Technologies",
+            "domain": "cardiaq.com",
+            "link": "http://cardiaq.com",
+            "description": "CardiAQ Valve Technologies develops innovative approaches to heart valve replacement, focused on transcatheter mitral valve implantation.",
+            "location": "Irvine, California, United States",
+            "size": "5001-10000",
+            "shared_cats": "uncertainties",
+            "score": "High"
+        }],
+        [5, {
+            "name": "AMERCO",
+            "domain": "amerco.com",
+            "link": "http://amerco.com",
+            "description": "AMERCO is North America's do-it-yourself moving and storage operator, which operates through its subsidiary, U-Haul International, Inc. (U-Haul). U-Haul offers do-it-yourself moving and storage and supplies products and services to help people move and store their household and commercial goods. The company rents its distinctive orange U-Haul trucks and trailers, as well as offer self-storage rooms through a network of over 1,450 Company operated retail-moving centers approximately and 14,500 independent U-Haul dealers. The Company also has an independent storage facility network with approximately 3,300 active affiliates. The Company also sells U-Haul brand boxes, tape and other moving and self-storage products and services. AMERCO has four reportable segments. The Company's reportable segments are Moving and Storage (AMERCO, U-Haul and Amerco Real Estate Company (Real Estate), Property and Casualty Insurance, Life Insurance and SAC Holding II Corporation and its subsidiaries.",
+            "location": null,
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Zoetis",
+            "domain": "zoetis.com",
+            "link": "http://zoetis.com",
+            "description": "Founded in 1950 and headquartered in Florham Park, New Jersey.  Zoetis is a veterinary pharmaceutical company that focuses on the development, manufacturing, and marketing of veterinary medicines and vaccines. Formerly known as Pfizer Animal Health, the New Jersey-based company offers products for livestock and companion animals worldwide.",
+            "location": null,
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "GSK",
+            "domain": "gsk.com",
+            "link": "http://gsk.com",
+            "description": "GSK is a science-led healthcare company.",
+            "location": "Middlesex, New Jersey, United States",
+            "size": "10000+",
+            "shared_cats": "vaccine",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Tekelec International",
+            "domain": "tekelec.com",
+            "link": "http://tekelec.com",
+            "description": "Tekelec International is a telecommunications company providing intelligent mobile broadband and data management solutions.",
+            "location": "Morrisville, North Carolina, United States",
+            "size": "10000+",
+            "shared_cats": "uncertainties",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Macquarie Group",
+            "domain": "macquarie.com",
+            "link": "http://macquarie.com",
+            "description": "Macquarie Infrastructure Company Owns, operates and invests in a diversified group of infrastructure businesses.",
+            "location": "New York, New York, United States",
+            "size": "10000+",
+            "shared_cats": "uncertainties",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "autodesk.com",
+    "categories": [
+        ["autocad", 0.2],
+        ["software", 0.17],
+        ["overlay", 0.13],
+        ["dam", 0.12],
+        ["architecture", 0.11]
+    ],
+    "keywords": [
+        ["infraworks", 0.44],
+        ["makes software", 0.26],
+        ["product information offers", 0.23],
+        ["engineering construction", 0.23],
+        ["template etc designs", 0.23],
+        ["zencoder content dam", 0.23],
+        ["toggle grid overlay", 0.23],
+        ["pricing keyboard", 0.23],
+        ["images misc", 0.23],
+        ["adsk", 0.22]
+    ],
+    "comps": [
+        [0, {
+            "name": "Stratasys Direct",
+            "domain": "stratasysdirect.com",
+            "link": "http://stratasysdirect.com",
+            "description": "Stratasys Direct Manufacturing is transforming the manufacturing landscape through revolutionary 3D printing and custom manufacturing.",
+            "location": "Valencia, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [1, {
+            "name": "Solid Concepts",
+            "domain": "solidconcepts.com",
+            "link": "http://solidconcepts.com",
+            "description": "Custom Manufacturing & 3D Printing",
+            "location": "Valencia, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [2, {
+            "name": "Gannett Fleming",
+            "domain": "gannettfleming.com",
+            "link": "http://gannettfleming.com",
+            "description": "Gannett Fleming provides planning, design, technology, and construction management services.",
+            "location": "Camp Hill, Pennsylvania, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "Cives",
+            "domain": "cives.com",
+            "link": "http://cives.com",
+            "description": "Cives Corporation provides structural steel and plate fabrication services. It specializes in design and engineering, project management, fabrication, building information modeling and integrated project management, and service and support. The company was established in 1952 and is based in Alpharetta, Georgia.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "Hexagon PPM",
+            "domain": "hexagonppm.com",
+            "link": "http://hexagonppm.com",
+            "description": "Hexagon PPM is a provider of enterprise engineering design software and project control solutions. It is specialized in Enterprise Engineering Software, Oil and Gas, Construction, Engineering and Design, and Information Management. The company was founded in 1969 and is based in Madison, Alabama.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Jennmar",
+            "domain": "jennmar.com",
+            "link": "http://jennmar.com",
+            "description": "Jennmar Corporation develops and manufactures ground control products for mining, tunneling, and civil construction industries. It offers primary roof/rib support and rock reinforcement products, such as bendable bolts, cable bolts, spring-loaded shells, combination bolt systems, conventional bolts, cuttable and corrosion resistant products, headed rebar bolts, bolt anchor systems, roof bolt re-tensioning systems, thread bars, tensioned rebar bolts, truss systems, and yielding rock bolts; and standing support products, which include impact resistant lagging steel structures, pumpable cement and containment bags, standard props, yieldable props, hydraulic props, overcasts, and rapid installation props. The company also provides surface/skin supports and accessories, including belt hangers, channels, mats, beams, meshes, galvanized and coated products, plates, and rail ties; resin and pumpable cement products, such as pumpable cribs, foaming cements, polyurethane resins, and polyurethane resin groutings; and engineering and fabrication services. Jennmar Corporation was formerly known as Frank Calandra, Inc. and changed its name to Jennmar Corporation in 1965. The company was founded in 1922 and is based in Pittsburgh, Pennsylvania with manufacturing plants in South Africa, Australia, Spain, China, Per, Chile, Mexico, Czech Republic, Poland, and the United States.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Dynetics",
+            "domain": "dynetics.com",
+            "link": "http://dynetics.com",
+            "description": "Employee-owned, mid-tier, engineering solutions provider for defense and aerospace.",
+            "location": "Huntsville, Alabama, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "Onward Technologies",
+            "domain": "onwardgroup.com",
+            "link": "http://onwardgroup.com",
+            "description": "Onward Technologies provides engineering and IT services for a variety of different industries.",
+            "location": "Rosamond, Illinois, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Esco Technologies",
+            "domain": "escotechnologies.com",
+            "link": "http://escotechnologies.com",
+            "description": "ESCO Technologies is a global provider of highly engineered products and solutions to diverse and growing end-markets that include the aerospace, space, healthcare, wireless, consumer electronics, and electric utility industries.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "KATERRA",
+            "domain": "katerra.com",
+            "link": "http://katerra.com",
+            "description": "Katerra is a Silicon Valley startup that is redefining the multi-trillion dollar construction industry.",
+            "location": "Menlo Park, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "ibm.com",
+    "categories": [
+        ["fortran", 0.26],
+        ["travel", 0.2],
+        ["magnetic", 0.16],
+        ["computer", 0.15],
+        ["lasik", 0.15]
+    ],
+    "keywords": [
+        ["ibmer", 0.63],
+        ["watson", 0.46],
+        ["ai", 0.45],
+        ["intelligence reason", 0.44],
+        ["progressive", 0.4],
+        ["watch", 0.35],
+        ["improve business society", 0.33],
+        ["quantum computing", 0.32],
+        ["human condition", 0.3],
+        ["winner", 0.3]
+    ],
+    "comps": [
+        [0, {
+            "name": "Unica",
+            "domain": "unica.com",
+            "link": "http://unica.com",
+            "description": "Unica offers enterprise marketing management and cloud-based marketing solutions to companies and different industries.",
+            "location": "Waltham, Massachusetts, United States",
+            "size": "5001-10000",
+            "shared_cats": "watson",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Coremetrics",
+            "domain": "coremetrics.com",
+            "link": "http://coremetrics.com",
+            "description": "Coremetrics provides digital marketing optimization and web analytics solutions for online marketing investments.",
+            "location": "San Mateo, California, United States",
+            "size": "10000+",
+            "shared_cats": "watson",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Corio",
+            "domain": "corio.com",
+            "link": "http://corio.com",
+            "description": "Corio is an enterprise Application Service Provider (ASP) that deploys and manages enterprise applications from software vendors such as",
+            "location": "San Carlos, California, United States",
+            "size": "10000+",
+            "shared_cats": "ai",
+            "score": "Medium"
+        }],
+        [3, {
+            "name": "Emptoris",
+            "domain": "emptoris.com",
+            "link": "http://emptoris.com",
+            "description": "Emptoris delivers strategic supply and contract management solutions for companies to optimize financial performance and commercial risk.",
+            "location": "Burlington, Massachusetts, United States",
+            "size": "10000+",
+            "shared_cats": "ai, watson",
+            "score": "Medium"
+        }],
+        [4, {
+            "name": "Truven Health Analytics",
+            "domain": "truvenhealth.com",
+            "link": "http://truvenhealth.com",
+            "description": "Truven Health Analytics delivers unbiased information, analytic tools, benchmarks, and services to the healthcare industry.",
+            "location": "Ann Arbor, Michigan, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [5, {
+            "name": "Salesforce",
+            "domain": "salesforce.com",
+            "link": "http://salesforce.com",
+            "description": "Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.",
+            "location": "San Francisco, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [6, {
+            "name": "Concentrix",
+            "domain": "concentrix.com",
+            "link": "http://concentrix.com",
+            "description": "Concentrix is a leader in high-value global business services.",
+            "location": "California City, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [7, {
+            "name": "AlphaBlox",
+            "domain": "alphablox.com",
+            "link": "http://alphablox.com",
+            "description": "AlphaBlox provides the only open Web-based platform for eBusiness analysis applications that enable companies to analyze.",
+            "location": "Mountain View, California, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "Informix",
+            "domain": "informix.com",
+            "link": "http://informix.com",
+            "description": "Informix provides database management systems for data warehousing, e-business applications, and transaction processing.",
+            "location": "Armonk, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "Red Brick Systems",
+            "domain": "redbrick.com",
+            "link": "http://redbrick.com",
+            "description": "Red Brick Systems is engaged in the design, development, marketing, and support of data warehousing software.",
+            "location": "Armonk, New York, United States",
+            "size": "10000+",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "shutterfly.com",
+    "categories": [
+        ["cards", 0.29],
+        ["stationery", 0.26],
+        ["books", 0.16],
+        ["gift", 0.14],
+        ["shipping", 0.13]
+    ],
+    "keywords": [
+        ["photo", 0.61],
+        ["cards stationery", 0.29],
+        ["free unlimited", 0.25],
+        ["super rush shipping", 0.22],
+        ["books holiday", 0.22],
+        ["select gifts", 0.21],
+        ["birth announcements", 0.19],
+        ["address labels", 0.18],
+        ["prints", 0.17],
+        ["password", 0.14]
+    ],
+    "comps": [
+        [0, {
+            "name": "Tiny Pictures",
+            "domain": "tinypictures.us",
+            "link": "http://tinypictures.us",
+            "description": "Tiny Pictures is an online platform for users to upload, store and share photos with friends.",
+            "location": "San Francisco, California, United States",
+            "size": "1001-5000",
+            "shared_cats": "photo, cards stationery, free unlimited, super rush shipping, books holiday, select gifts, birth announcements, address labels, prints, password",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Shutterfly",
+            "domain": "shutterflyinc.com",
+            "link": "http://shutterflyinc.com",
+            "description": null,
+            "location": "2800 Bridge Parkway, Redwood City, CA, 94065, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [2, {
+            "name": "Crane & Co.",
+            "domain": "crane.com",
+            "link": "http://crane.com",
+            "description": "Crane & Co., Inc is a Manufacturing company.",
+            "location": "Dalton, Massachusetts, United States",
+            "size": "1001-5000",
+            "shared_cats": "birth announcements",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Print EZ",
+            "domain": "printez.com",
+            "link": "http://printez.com",
+            "description": "Print E-Z is an online source that provides personal and business checks, wedding invitations, and business forms.",
+            "location": "Monroe, New York, United States",
+            "size": "501-1000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Vitamin World",
+            "domain": "vitaminworld.com",
+            "link": "http://vitaminworld.com",
+            "description": "A company of wellness enthusiasts.",
+            "location": "Bohemia, New York, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Schurman Retail Group",
+            "domain": "srgretail.com",
+            "link": "http://srgretail.com",
+            "description": "Schurman Retail Group (dba Papyrus) strives to make the right impression. The company, which operates stores under the American Greetings, Carlton Cards, and Papyrus brands, sells specialty gift products such as greeting cards, stationary, gift wrap, and other paper products.",
+            "location": null,
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Miles Kimball",
+            "domain": "mileskimball.com",
+            "link": "http://mileskimball.com",
+            "description": "Miles Kimball is a leading service provider in the catalog business.",
+            "location": "Oshkosh, Wisconsin, United States",
+            "size": "501-1000",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Finish Line",
+            "domain": "finishline.com",
+            "link": "http://finishline.com",
+            "description": "The Finish Line, Inc. (NASDAQ: FINL) is a premium retailer of athletic shoes, apparel and accessories. Headquartered in Indianapolis.",
+            "location": "Indianapolis, Indiana, United States",
+            "size": "5001-10000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [8, {
+            "name": "PostNet",
+            "domain": "postnet.com",
+            "link": "http://postnet.com",
+            "description": "PostNet provides convenient, high-quality printing and shipping solutions to businesses and consumers. Locally owned and operated PostNet franchises offer full-service printing and finishing services, including digital printing, large and small format printing, direct mail services, graphic design services, and ancillary business services, like private mailbox rental and more. It also offers professional packaging services and shipping with UPS, FedEx, DHL and the U. S. Postal Service. PostNet was founded in 1993.",
+            "location": null,
+            "size": "501-1000",
+            "shared_cats": "",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "American Girl",
+            "domain": "americangirl.com",
+            "link": "http://americangirl.com",
+            "description": "American Girl is creations company that inspires the wonder of childhood.",
+            "location": "Middleton, Wisconsin, United States",
+            "size": "1001-5000",
+            "shared_cats": "",
+            "score": "Medium"
+        }]
+    ]
+} ,{
+    "domain": "convoy.com",
+    "categories": [
+        ["truck", 0.5],
+        ["freight", 0.4],
+        ["transport", 0.12],
+        ["transportation", 0.11],
+        ["cargo", 0.1]
+    ],
+    "keywords": [
+        ["trucking", 0.56],
+        ["truck", 0.5],
+        ["freight", 0.4],
+        ["seattle", 0.37],
+        ["mission transporting", 0.35],
+        ["driver", 0.34],
+        ["endless capacity", 0.33],
+        ["dollars spent moving", 0.23],
+        ["carriers connect", 0.23],
+        ["zero waste", 0.23]
+    ],
+    "comps": [
+        [0, {
+            "name": "Transfix",
+            "domain": "transfix.io",
+            "link": "http://transfix.io",
+            "description": "Transfix provides trucking brokerage services in the United States.",
+            "location": "New York, New York, United States",
+            "size": "51-200",
+            "shared_cats": "freight, truck",
+            "score": "High"
+        }],
+        [1, {
+            "name": "Trans-Continental OH",
+            "domain": "tcsohio.com",
+            "link": "http://tcsohio.com",
+            "description": "Trans-Continental Systems, Inc. provides road transportation of freight using tractors and trailers. The company was founded in 1983 and is based in Cincinnati, Ohio.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "trucking, freight, driver",
+            "score": "High"
+        }],
+        [2, {
+            "name": "JRC TRANSPORTATION",
+            "domain": "jrctransportation.net",
+            "link": "http://jrctransportation.net",
+            "description": "Since 1984, JRC Transportation, Inc. has been helping fellow business owners with their transportation needs.  With over 30 offices across the United States and Canada, JRC is proud to offer skilled dispatchers and experienced drivers.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "trucking, driver, freight",
+            "score": "High"
+        }],
+        [3, {
+            "name": "Carggo",
+            "domain": "carggo.com",
+            "link": "http://carggo.com",
+            "description": "Carggo is a global digital logistics services company.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "freight, driver",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Blackrock Logistics",
+            "domain": "blackrock-logistics.net",
+            "link": "http://blackrock-logistics.net",
+            "description": "Blackrock Logistics is a privately owned logistics firm based out of Pleasanton, California. Blackrock Logistics provides freight transportation in Southern California and the Pacific Northwest.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "driver, freight",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Interide Transport",
+            "domain": "interide.com",
+            "link": "http://interide.com",
+            "description": "Interide Transport brings decades of experience and integrity in the transportation business. It knows that a customer who trusts freight to the company deserves a partner committed to quality, safety, efficiency, and on-time delivery. Outfitted with state of the art equipment, it specializes in temperature-controlled and flatbed transportation services. It is committed to its reputation, its strong customer relationships, its cutting-edge technology, its commitment to succeed, and the belief in securing its future through strategies that will move its company far ahead of the competition. Because of its heritage and beliefs, it has a strong commitment to improving the quality of life through economic, social and environmental sustainability.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "trucking, driver, freight",
+            "score": "High"
+        }],
+        [6, {
+            "name": "Domex Superfresh Growers",
+            "domain": "dsg-logistics.com",
+            "link": "http://dsg-logistics.com",
+            "description": "Domex Superfresh Growers is a Agricultural Logistics Services. It delivers organic and fresh fruits. The Logistics Services was founded in 2009 and is headquartered in Yakima, Washington.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Lynden",
+            "domain": "lynden.com",
+            "link": "http://lynden.com",
+            "description": "Founded in 1906, Lynden Inc. is a land and sea freight company. Lynden spans a dozen operating companies and 70 sites. With much of their workforce in Seattle, WA, the company operates additional locations including Alaska, Russia and South America. They are based in Anchorage, AK.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "freight, seattle, trucking, driver",
+            "score": "High"
+        }],
+        [8, {
+            "name": "Nationwide Transport Services",
+            "domain": "nationwidetransportservices.com",
+            "link": "http://nationwidetransportservices.com",
+            "description": "Nationwide Transport Services, founded in 2009, is a transportation company based out of Fort Lauderdale, Florida. Nationwide Transport Services provides full service auto transportation and freight shipping across America.",
+            "location": null,
+            "size": "51-200",
+            "shared_cats": "driver, freight",
+            "score": "High"
+        }],
+        [9, {
+            "name": "John Christner Trucking",
+            "domain": "johnchristner.com",
+            "link": "http://johnchristner.com",
+            "description": "John Christner Trucking, LLC provides truckload transportation services in the continental United States. It offers refrigerated transportation services. It operates equipment and facilitates the pickup and delivery of shipments. The company was formed in 1986 and is headquartered in Sapulpa, Oklahoma.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "freight, driver",
+            "score": "High"
+        }]
+    ]
+} ,{
+    "domain": "jamf.com",
+    "categories": [
+        ["windows", 0.17],
+        ["government", 0.16],
+        ["education", 0.14],
+        ["software", 0.1],
+        ["security", 0.08]
+    ],
+    "keywords": [
+        ["apple", 1.57],
+        ["empower end users", 0.65],
+        ["businesses education", 0.55],
+        ["organizations succeed", 0.46],
+        ["mac ipad", 0.45],
+        ["tv management", 0.33],
+        ["legendary", 0.29],
+        ["device", 0.28],
+        ["iphone", 0.24],
+        ["macos", 0.22]
+    ],
+    "comps": [
+        [0, {
+            "name": "M4V Converter Plus Inc.",
+            "domain": "m4vconverterplus.com",
+            "link": "http://m4vconverterplus.com",
+            "description": "All-in-one DRM removal software and iTunes movies Converter",
+            "location": "Cortaro, Arizona, United States",
+            "size": "501-1000",
+            "shared_cats": "iphone, device",
+            "score": "High"
+        }],
+        [1, {
+            "name": "MaaS360",
+            "domain": "maas360.com",
+            "link": "http://maas360.com",
+            "description": "MaaS360 is an enterprise mobility management (EMM) platform.",
+            "location": "Blue Bell, Pennsylvania, United States",
+            "size": "201-500",
+            "shared_cats": "device, macos, apple",
+            "score": "High"
+        }],
+        [2, {
+            "name": "DTechWay",
+            "domain": "dtechway.com",
+            "link": "http://dtechway.com",
+            "description": "DTechWay incorporated in USA (Wyoming, Cheyenne) known for offering IT & Professional Computing Services for Household and Office User.",
+            "location": "Cheyenne, Wyoming, United States",
+            "size": "501-1000",
+            "shared_cats": "apple, iphone",
+            "score": "High"
+        }],
+        [3, {
+            "name": "2X Software",
+            "domain": "2x.com",
+            "link": "http://2x.com",
+            "description": "2X Software is a company that offers virtualization solutions to enterprises all across the globe.",
+            "location": "Dallas, Texas, United States",
+            "size": "501-1000",
+            "shared_cats": "device, macos",
+            "score": "High"
+        }],
+        [4, {
+            "name": "Mercury Development",
+            "domain": "mercurydevelopment.com",
+            "link": "http://mercurydevelopment.com",
+            "description": "Mercury Development is a leading software development company that was founded in 1999. Their company is focused on creating applications for iOS, OS X, Android and Windows platforms. Mercury Development is headquartered out of Miami, Florida and has a second location located in Atlanta, Georgia.",
+            "location": null,
+            "size": "201-500",
+            "shared_cats": "",
+            "score": "High"
+        }],
+        [5, {
+            "name": "Paragon Software",
+            "domain": "paragon-software.com",
+            "link": "http://paragon-software.com",
+            "description": "Paragon Software Group (PSG) is a software developer focused on two dynamic growth markets.",
+            "location": "Irvine, California, United States",
+            "size": "201-500",
+            "shared_cats": "macos",
+            "score": "High"
+        }],
+        [6, {
+            "name": "uBreakiFix",
+            "domain": "ubreakifix.com",
+            "link": "http://ubreakifix.com",
+            "description": "uBreakiFix is an international electronics repair franchise that operates in the US, Canada and Puerto Rico.",
+            "location": "Orlando, Florida, United States",
+            "size": "1001-5000",
+            "shared_cats": "iphone, device",
+            "score": "High"
+        }],
+        [7, {
+            "name": "Parallels",
+            "domain": "parallels.com",
+            "link": "http://parallels.com",
+            "description": "Parallels develops cross-platform virtualization and automation solutions which allow users to access applications, files, and computers.",
+            "location": "Renton, Washington, United States",
+            "size": "501-1000",
+            "shared_cats": "device",
+            "score": "High"
+        }],
+        [8, {
+            "name": "SEGA",
+            "domain": "sega.com",
+            "link": "http://sega.com",
+            "description": "SEGA develops, publishes, and distributes interactive entertainment software products for a variety of hardware platforms.",
+            "location": "Irvine, California, United States",
+            "size": "501-1000",
+            "shared_cats": "iphone",
+            "score": "Medium"
+        }],
+        [9, {
+            "name": "WINIT Software",
+            "domain": "winitsoftware.com",
+            "link": "http://winitsoftware.com",
+            "description": "Mobile Application Development Services",
+            "location": "San Diego, California, United States",
+            "size": "201-500",
+            "shared_cats": "iphone",
+            "score": "Medium"
+        }]
+    ]
+}]
